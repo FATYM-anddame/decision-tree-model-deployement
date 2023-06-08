@@ -1,0 +1,1000 @@
+age,workclass,education,marital_status,occupation,gender,hours_per_week,income
+60-90,non-private,Bachelors,Married-civ-spouse,Exec-managerial,Male,35-40,<=50K
+60-90,non-private,Bachelors,Married-civ-spouse,Other-service,Male,20-Oct,<=50K
+60-90,Private,Bachelors,Divorced,Sales,Male,35-40,<=50K
+60-90,non-private,Bachelors,Married-civ-spouse,Prof-specialty,Male,20-Aug,>50K
+60-90,non-private,Doctorate,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+60-90,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,35-40,>50K
+60-90,non-private,HS-grad,Married-civ-spouse,Other-service,Male,35-40,<=50K
+60-90,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+60-90,non-private,HS-grad,Married-civ-spouse,Sales,Male,20-35,<=50K
+60-90,Private,HS-grad,Divorced,Adm-clerical,Female,20-35,<=50K
+60-90,non-private,HS-grad,Married-civ-spouse,Exec-managerial,Male,20-Aug,<=50K
+60-90,non-private,HS-grad,Married-civ-spouse,Other-service,Male,35-40,<=50K
+60-90,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,35-40,>50K
+60-90,Private,HS-grad,Married-civ-spouse,Exec-managerial,Male,35-40,>50K
+60-90,non-private,HS-grad,Married-civ-spouse,Adm-clerical,Female,35-40,<=50K
+60-90,non-private,HS-grad,Married-civ-spouse,Other-service,Male,20-Aug,<=50K
+60-90,non-private,HS-grad,Married-civ-spouse,Transport-moving,Male,40-60,<=50K
+60-90,non-private,HS-grad,Married-civ-spouse,Farming-fishing,Male,40-60,<=50K
+60-90,Private,HS-grad,Divorced,Exec-managerial,Female,20-35,<=50K
+60-90,non-private,HS-grad,Married-civ-spouse,Other-service,Male,20-Aug,<=50K
+60-90,Private,HS-grad,Married-civ-spouse,Exec-managerial,Male,40-60,<=50K
+60-90,non-private,HS-grad,Married-civ-spouse,Other-service,Male,35-40,>50K
+60-90,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,35-40,>50K
+60-90,non-private,HS-grad,Married-civ-spouse,Farming-fishing,Male,20-Aug,<=50K
+60-90,non-private,HS-grad,Married-civ-spouse,Machine-op-inspct,Female,20-Aug,<=50K
+60-90,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+60-90,non-private,HS-grad,Married-civ-spouse,Other-service,Male,20-35,<=50K
+60-90,Private,HS-grad,Married-spouse-absent,Machine-op-inspct,Female,20-Aug,<=50K
+60-90,Private,Less than High School,Married-civ-spouse,Handlers-cleaners,Male,35-40,<=50K
+60-90,non-private,Less than High School,Married-spouse-absent,Other-service,Female,<8,<=50K
+60-90,Private,Less than High School,Widowed,Other-service,Female,35-40,<=50K
+60-90,non-private,Less than High School,Married-civ-spouse,Other-service,Male,20-35,<=50K
+60-90,Private,Less than High School,Married-civ-spouse,Exec-managerial,Male,40-60,<=50K
+60-90,Private,Less than High School,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+60-90,Private,Less than High School,Married-civ-spouse,Exec-managerial,Male,20-35,<=50K
+60-90,Private,Less than High School,Married-civ-spouse,Handlers-cleaners,Male,35-40,<=50K
+60-90,non-private,Less than High School,Married-civ-spouse,Farming-fishing,Male,40-60,<=50K
+60-90,Private,Less than High School,Never-married,Priv-house-serv,Female,40-60,<=50K
+60-90,Private,Less than High School,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+60-90,non-private,Less than High School,Married-civ-spouse,Other-service,Male,20-Aug,<=50K
+60-90,non-private,Less than High School,Divorced,Other-service,Female,<8,<=50K
+60-90,non-private,Less than High School,Never-married,Farming-fishing,Male,35-40,<=50K
+60-90,non-private,Less than High School,Married-civ-spouse,Craft-repair,Male,20-Aug,<=50K
+60-90,non-private,Less than High School,Married-civ-spouse,Farming-fishing,Male,20-Aug,<=50K
+60-90,Private,Less than High School,Divorced,Other-service,Female,35-40,<=50K
+60-90,non-private,Less than High School,Widowed,Other-service,Male,35-40,<=50K
+60-90,non-private,Less than High School,Married-civ-spouse,Transport-moving,Male,35-40,>50K
+60-90,Private,Less than High School,Married-civ-spouse,Handlers-cleaners,Male,20-35,<=50K
+60-90,Private,Less than High School,Married-civ-spouse,Exec-managerial,Male,20-Aug,<=50K
+60-90,Private,Less than High School,Married-civ-spouse,Handlers-cleaners,Male,35-40,<=50K
+60-90,Private,Masters,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+60-90,non-private,Masters,Married-civ-spouse,Prof-specialty,Male,35-40,<=50K
+60-90,non-private,Masters,Never-married,Other-service,Female,20-35,<=50K
+60-90,non-private,Professional Degree,Married-civ-spouse,Prof-specialty,Male,20-35,>50K
+60-90,non-private,Professional Degree,Never-married,Prof-specialty,Male,20-Aug,<=50K
+60-90,non-private,Professional Degree,Divorced,Prof-specialty,Female,20-35,<=50K
+60-90,non-private,Professional Degree,Divorced,Prof-specialty,Female,20-35,<=50K
+60-90,Private,Some College or Associate's Degree,Married-civ-spouse,Sales,Male,40-60,>50K
+60-90,non-private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Male,35-40,<=50K
+60-90,non-private,Some College or Associate's Degree,Married-civ-spouse,Other-service,Male,20-Aug,<=50K
+60-90,non-private,Some College or Associate's Degree,Married-civ-spouse,Transport-moving,Male,20-35,<=50K
+60-90,non-private,Some College or Associate's Degree,Divorced,Tech-support,Male,35-40,<=50K
+60-90,Private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Female,35-40,>50K
+60-90,non-private,Some College or Associate's Degree,Married-civ-spouse,Transport-moving,Male,35-40,<=50K
+60-90,non-private,Some College or Associate's Degree,Married-civ-spouse,Other-service,Male,20-Aug,<=50K
+60-90,non-private,Some College or Associate's Degree,Widowed,Farming-fishing,Female,60-99,<=50K
+60-90,Private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+60-90,Private,Some College or Associate's Degree,Married-civ-spouse,Handlers-cleaners,Male,20-Aug,<=50K
+60-90,non-private,Some College or Associate's Degree,Married-civ-spouse,Prof-specialty,Female,<8,<=50K
+60-90,non-private,Some College or Associate's Degree,Married-civ-spouse,Sales,Male,35-40,<=50K
+60-90,non-private,Some College or Associate's Degree,Married-civ-spouse,Other-service,Male,20-35,<=50K
+44-60,Private,Bachelors,Never-married,Exec-managerial,Female,20-35,<=50K
+44-60,non-private,Bachelors,Divorced,Adm-clerical,Male,35-40,<=50K
+44-60,Private,Bachelors,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+44-60,Private,Bachelors,Divorced,Craft-repair,Male,40-60,<=50K
+44-60,non-private,Bachelors,Divorced,Prof-specialty,Female,35-40,<=50K
+44-60,Private,Bachelors,Married-civ-spouse,Prof-specialty,Male,35-40,>50K
+44-60,non-private,Bachelors,Married-civ-spouse,Craft-repair,Male,40-60,>50K
+44-60,non-private,Bachelors,Married-civ-spouse,Exec-managerial,Male,35-40,<=50K
+44-60,Private,Bachelors,Divorced,Exec-managerial,Female,40-60,<=50K
+44-60,non-private,Bachelors,Married-civ-spouse,Sales,Male,40-60,<=50K
+44-60,Private,Bachelors,Divorced,Prof-specialty,Female,40-60,>50K
+44-60,Private,Bachelors,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+44-60,Private,Bachelors,Married-civ-spouse,Exec-managerial,Male,35-40,<=50K
+44-60,non-private,Bachelors,Never-married,Exec-managerial,Male,35-40,<=50K
+44-60,Private,Bachelors,Divorced,Exec-managerial,Male,40-60,>50K
+44-60,Private,Bachelors,Never-married,Exec-managerial,Female,20-35,<=50K
+44-60,Private,Bachelors,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+44-60,Private,Bachelors,Married-civ-spouse,Prof-specialty,Male,35-40,<=50K
+44-60,non-private,Bachelors,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+44-60,Private,Bachelors,Married-civ-spouse,Prof-specialty,Male,35-40,>50K
+44-60,Private,Bachelors,Married-civ-spouse,Sales,Male,40-60,<=50K
+44-60,Private,Bachelors,Married-civ-spouse,Prof-specialty,Male,35-40,>50K
+44-60,Private,Bachelors,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+44-60,Private,Bachelors,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+44-60,non-private,Bachelors,Married-civ-spouse,Exec-managerial,Female,35-40,>50K
+44-60,non-private,Bachelors,Married-civ-spouse,Other-service,Male,35-40,<=50K
+44-60,non-private,Bachelors,Married-civ-spouse,Transport-moving,Male,35-40,>50K
+44-60,non-private,Bachelors,Married-civ-spouse,Craft-repair,Male,35-40,>50K
+44-60,Private,Bachelors,Divorced,Exec-managerial,Male,60-99,>50K
+44-60,Private,Bachelors,Divorced,Adm-clerical,Female,35-40,<=50K
+44-60,non-private,Bachelors,Married-civ-spouse,Prof-specialty,Male,20-Aug,>50K
+44-60,Private,Bachelors,Married-civ-spouse,Sales,Male,35-40,>50K
+44-60,non-private,Bachelors,Married-civ-spouse,Exec-managerial,Male,20-Aug,<=50K
+44-60,Private,Bachelors,Married-civ-spouse,Prof-specialty,Male,35-40,>50K
+44-60,non-private,Bachelors,Married-civ-spouse,Prof-specialty,Male,35-40,>50K
+44-60,Private,Bachelors,Divorced,Exec-managerial,Female,35-40,<=50K
+44-60,Private,Bachelors,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+44-60,non-private,Bachelors,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+44-60,non-private,Bachelors,Married-civ-spouse,Adm-clerical,Female,35-40,<=50K
+44-60,non-private,Doctorate,Married-civ-spouse,Prof-specialty,Female,35-40,>50K
+44-60,non-private,Doctorate,Married-civ-spouse,Prof-specialty,Male,20-Aug,>50K
+44-60,non-private,Doctorate,Married-AF-spouse,Exec-managerial,Female,20-35,>50K
+44-60,non-private,Doctorate,Divorced,Sales,Male,20-Aug,<=50K
+44-60,non-private,Doctorate,Never-married,Prof-specialty,Female,35-40,>50K
+44-60,non-private,HS-grad,Married-civ-spouse,Other-service,Male,20-35,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,40-60,>50K
+44-60,non-private,HS-grad,Married-civ-spouse,Craft-repair,Male,60-99,>50K
+44-60,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,20-35,<=50K
+44-60,non-private,HS-grad,Widowed,Exec-managerial,Female,40-60,<=50K
+44-60,non-private,HS-grad,Divorced,Adm-clerical,Female,35-40,<=50K
+44-60,Private,HS-grad,Separated,Transport-moving,Male,35-40,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Transport-moving,Male,35-40,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Sales,Male,40-60,>50K
+44-60,Private,HS-grad,Married-civ-spouse,Transport-moving,Male,35-40,>50K
+44-60,non-private,HS-grad,Widowed,Adm-clerical,Female,20-35,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+44-60,non-private,HS-grad,Widowed,Exec-managerial,Female,20-35,<=50K
+44-60,non-private,HS-grad,Divorced,Exec-managerial,Male,20-35,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Prof-specialty,Male,35-40,>50K
+44-60,Private,HS-grad,Divorced,Handlers-cleaners,Male,40-60,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+44-60,non-private,HS-grad,Married-civ-spouse,Sales,Male,35-40,>50K
+44-60,non-private,HS-grad,Married-civ-spouse,Exec-managerial,Male,35-40,<=50K
+44-60,non-private,HS-grad,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Transport-moving,Male,60-99,>50K
+44-60,non-private,HS-grad,Married-civ-spouse,Other-service,Male,20-35,>50K
+44-60,non-private,HS-grad,Married-civ-spouse,Sales,Male,60-99,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,35-40,>50K
+44-60,non-private,HS-grad,Widowed,Other-service,Female,35-40,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,40-60,>50K
+44-60,Private,HS-grad,Widowed,Adm-clerical,Female,20-35,<=50K
+44-60,Private,HS-grad,Divorced,Adm-clerical,Female,35-40,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+44-60,Private,HS-grad,Divorced,Other-service,Female,35-40,<=50K
+44-60,non-private,HS-grad,Married-civ-spouse,Exec-managerial,Male,40-60,<=50K
+44-60,Private,HS-grad,Never-married,Adm-clerical,Male,40-60,<=50K
+44-60,non-private,HS-grad,Married-civ-spouse,Other-service,Female,35-40,<=50K
+44-60,non-private,HS-grad,Married-civ-spouse,Other-service,Male,35-40,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+44-60,Private,HS-grad,Widowed,Adm-clerical,Female,35-40,<=50K
+44-60,Private,HS-grad,Widowed,Transport-moving,Male,40-60,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Transport-moving,Male,40-60,>50K
+44-60,non-private,HS-grad,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+44-60,Private,HS-grad,Separated,Adm-clerical,Female,20-35,<=50K
+44-60,non-private,HS-grad,Separated,Exec-managerial,Female,20-35,<=50K
+44-60,Private,HS-grad,Divorced,Other-service,Female,35-40,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Female,35-40,>50K
+44-60,non-private,HS-grad,Married-civ-spouse,Farming-fishing,Male,40-60,<=50K
+44-60,non-private,HS-grad,Widowed,Other-service,Female,35-40,<=50K
+44-60,Private,HS-grad,Divorced,Prof-specialty,Female,35-40,<=50K
+44-60,non-private,HS-grad,Married-civ-spouse,Other-service,Female,20-Aug,>50K
+44-60,Private,HS-grad,Divorced,Craft-repair,Male,40-60,<=50K
+44-60,Private,HS-grad,Never-married,Other-service,Male,20-Aug,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+44-60,Private,HS-grad,Divorced,Handlers-cleaners,Female,35-40,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,40-60,>50K
+44-60,non-private,HS-grad,Married-civ-spouse,Exec-managerial,Male,40-60,<=50K
+44-60,non-private,HS-grad,Married-civ-spouse,Transport-moving,Male,35-40,<=50K
+44-60,non-private,HS-grad,Married-civ-spouse,Adm-clerical,Female,35-40,>50K
+44-60,Private,HS-grad,Married-civ-spouse,Adm-clerical,Male,35-40,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Handlers-cleaners,Male,35-40,>50K
+44-60,non-private,HS-grad,Married-civ-spouse,Other-service,Male,35-40,<=50K
+44-60,Private,HS-grad,Divorced,Handlers-cleaners,Male,35-40,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Tech-support,Male,35-40,<=50K
+44-60,non-private,HS-grad,Married-civ-spouse,Other-service,Male,40-60,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Tech-support,Male,40-60,>50K
+44-60,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,40-60,>50K
+44-60,non-private,HS-grad,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+44-60,non-private,HS-grad,Married-civ-spouse,Transport-moving,Male,60-99,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Handlers-cleaners,Male,20-35,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+44-60,Private,HS-grad,Married-civ-spouse,Transport-moving,Male,40-60,<=50K
+44-60,Private,HS-grad,Divorced,Other-service,Female,35-40,<=50K
+44-60,non-private,HS-grad,Divorced,Exec-managerial,Male,35-40,>50K
+44-60,Private,Less than High School,Married-civ-spouse,Farming-fishing,Male,35-40,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Transport-moving,Male,35-40,>50K
+44-60,Private,Less than High School,Widowed,Other-service,Female,35-40,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Transport-moving,Male,35-40,>50K
+44-60,Private,Less than High School,Married-civ-spouse,Other-service,Male,35-40,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+44-60,Private,Less than High School,Divorced,Other-service,Female,20-Aug,<=50K
+44-60,Private,Less than High School,Never-married,Other-service,Male,35-40,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Craft-repair,Male,20-35,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+44-60,Private,Less than High School,Separated,Exec-managerial,Male,40-60,<=50K
+44-60,non-private,Less than High School,Widowed,Other-service,Female,40-60,<=50K
+44-60,Private,Less than High School,Separated,Priv-house-serv,Female,20-Aug,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Other-service,Male,20-35,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Other-service,Male,20-35,<=50K
+44-60,Private,Less than High School,Never-married,Other-service,Female,40-60,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Transport-moving,Male,35-40,<=50K
+44-60,non-private,Less than High School,Married-civ-spouse,Other-service,Male,35-40,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+44-60,Private,Less than High School,Divorced,Farming-fishing,Male,35-40,<=50K
+44-60,non-private,Less than High School,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Handlers-cleaners,Male,35-40,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Craft-repair,Male,20-Aug,<=50K
+44-60,non-private,Less than High School,Never-married,Other-service,Male,20-Aug,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Machine-op-inspct,Male,20-Aug,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Craft-repair,Male,40-60,>50K
+44-60,Private,Less than High School,Married-civ-spouse,Transport-moving,Male,40-60,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Prof-specialty,Male,35-40,<=50K
+44-60,Private,Less than High School,Widowed,Other-service,Female,20-35,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+44-60,non-private,Less than High School,Widowed,Other-service,Female,35-40,<=50K
+44-60,Private,Less than High School,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+44-60,non-private,Less than High School,Married-civ-spouse,Exec-managerial,Male,60-99,>50K
+44-60,Private,Masters,Married-civ-spouse,Prof-specialty,Male,35-40,<=50K
+44-60,non-private,Masters,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+44-60,non-private,Masters,Separated,Adm-clerical,Female,35-40,<=50K
+44-60,Private,Masters,Never-married,Exec-managerial,Female,40-60,<=50K
+44-60,non-private,Masters,Never-married,Exec-managerial,Male,35-40,<=50K
+44-60,non-private,Masters,Divorced,Prof-specialty,Female,40-60,<=50K
+44-60,non-private,Masters,Never-married,Prof-specialty,Female,40-60,<=50K
+44-60,non-private,Masters,Married-civ-spouse,Exec-managerial,Male,35-40,>50K
+44-60,non-private,Masters,Divorced,Exec-managerial,Male,40-60,>50K
+44-60,non-private,Masters,Married-civ-spouse,Exec-managerial,Male,35-40,>50K
+44-60,non-private,Masters,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+44-60,Private,Masters,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+44-60,non-private,Masters,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+44-60,Private,Masters,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+44-60,Private,Masters,Married-civ-spouse,Tech-support,Male,35-40,<=50K
+44-60,non-private,Masters,Married-civ-spouse,Prof-specialty,Male,35-40,>50K
+44-60,Private,Masters,Married-civ-spouse,Exec-managerial,Male,60-99,>50K
+44-60,non-private,Professional Degree,Married-civ-spouse,Prof-specialty,Male,60-99,>50K
+44-60,non-private,Professional Degree,Married-civ-spouse,Prof-specialty,Male,35-40,>50K
+44-60,non-private,Professional Degree,Married-civ-spouse,Exec-managerial,Male,35-40,>50K
+44-60,non-private,Professional Degree,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+44-60,Private,Professional Degree,Never-married,Prof-specialty,Male,60-99,<=50K
+44-60,Private,Professional Degree,Married-civ-spouse,Sales,Male,35-40,>50K
+44-60,non-private,Professional Degree,Divorced,Prof-specialty,Male,40-60,>50K
+44-60,non-private,Professional Degree,Married-civ-spouse,Prof-specialty,Male,35-40,>50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Tech-support,Male,40-60,>50K
+44-60,Private,Some College or Associate's Degree,Married-civ-spouse,Tech-support,Male,35-40,<=50K
+44-60,Private,Some College or Associate's Degree,Married-civ-spouse,Prof-specialty,Male,35-40,>50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Farming-fishing,Male,60-99,<=50K
+44-60,Private,Some College or Associate's Degree,Divorced,Other-service,Male,20-Aug,<=50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Male,20-35,<=50K
+44-60,non-private,Some College or Associate's Degree,Separated,Adm-clerical,Female,35-40,<=50K
+44-60,Private,Some College or Associate's Degree,Never-married,Other-service,Female,35-40,<=50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Male,35-40,>50K
+44-60,Private,Some College or Associate's Degree,Married-civ-spouse,Transport-moving,Male,40-60,<=50K
+44-60,Private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+44-60,Private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Machine-op-inspct,Male,40-60,<=50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Other-service,Female,20-Aug,<=50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Male,35-40,>50K
+44-60,Private,Some College or Associate's Degree,Divorced,Adm-clerical,Female,35-40,<=50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Protective-serv,Male,35-40,>50K
+44-60,Private,Some College or Associate's Degree,Married-civ-spouse,Tech-support,Male,35-40,<=50K
+44-60,Private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Female,40-60,<=50K
+44-60,Private,Some College or Associate's Degree,Married-civ-spouse,Protective-serv,Male,35-40,>50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Farming-fishing,Male,40-60,<=50K
+44-60,Private,Some College or Associate's Degree,Divorced,Craft-repair,Male,40-60,>50K
+44-60,Private,Some College or Associate's Degree,Divorced,Handlers-cleaners,Male,20-35,<=50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Sales,Male,40-60,>50K
+44-60,Private,Some College or Associate's Degree,Divorced,Sales,Female,20-35,<=50K
+44-60,Private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Male,35-40,<=50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Male,40-60,<=50K
+44-60,Private,Some College or Associate's Degree,Divorced,Adm-clerical,Female,35-40,<=50K
+44-60,Private,Some College or Associate's Degree,Separated,Adm-clerical,Male,35-40,>50K
+44-60,Private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Sales,Male,40-60,<=50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+44-60,non-private,Some College or Associate's Degree,Divorced,Machine-op-inspct,Male,35-40,<=50K
+44-60,Private,Some College or Associate's Degree,Divorced,Adm-clerical,Female,35-40,<=50K
+44-60,Private,Some College or Associate's Degree,Married-civ-spouse,Adm-clerical,Female,20-Aug,>50K
+44-60,Private,Some College or Associate's Degree,Separated,Other-service,Female,20-35,<=50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Male,60-99,>50K
+44-60,Private,Some College or Associate's Degree,Separated,Sales,Female,40-60,<=50K
+44-60,non-private,Some College or Associate's Degree,Married-spouse-absent,Exec-managerial,Female,40-60,<=50K
+44-60,Private,Some College or Associate's Degree,Divorced,Sales,Female,35-40,<=50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Male,20-35,>50K
+44-60,non-private,Some College or Associate's Degree,Divorced,Prof-specialty,Female,35-40,<=50K
+44-60,Private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,20-35,>50K
+44-60,non-private,Some College or Associate's Degree,Divorced,Adm-clerical,Male,35-40,<=50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,40-60,>50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Sales,Male,40-60,>50K
+44-60,Private,Some College or Associate's Degree,Married-civ-spouse,Machine-op-inspct,Male,35-40,>50K
+44-60,Private,Some College or Associate's Degree,Married-civ-spouse,Transport-moving,Male,20-35,>50K
+44-60,non-private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+44-60,Private,Some College or Associate's Degree,Married-civ-spouse,Sales,Male,40-60,>50K
+44-60,Private,Some College or Associate's Degree,Married-civ-spouse,Transport-moving,Male,35-40,>50K
+25-44,non-private,Bachelors,Married-civ-spouse,Adm-clerical,Male,35-40,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Tech-support,Male,40-60,>50K
+25-44,non-private,Bachelors,Married-civ-spouse,Prof-specialty,Male,35-40,>50K
+25-44,non-private,Bachelors,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,Private,Bachelors,Never-married,Exec-managerial,Female,40-60,<=50K
+25-44,Private,Bachelors,Never-married,Other-service,Female,35-40,<=50K
+25-44,Private,Bachelors,Divorced,Sales,Female,35-40,>50K
+25-44,non-private,Bachelors,Divorced,Prof-specialty,Female,40-60,<=50K
+25-44,non-private,Bachelors,Married-civ-spouse,Adm-clerical,Male,40-60,>50K
+25-44,non-private,Bachelors,Divorced,Exec-managerial,Male,35-40,<=50K
+25-44,Private,Bachelors,Never-married,Sales,Male,35-40,<=50K
+25-44,Private,Bachelors,Never-married,Adm-clerical,Female,35-40,<=50K
+25-44,Private,Bachelors,Widowed,Exec-managerial,Female,40-60,<=50K
+25-44,non-private,Bachelors,Married-spouse-absent,Farming-fishing,Male,35-40,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Exec-managerial,Male,35-40,>50K
+25-44,Private,Bachelors,Separated,Prof-specialty,Male,40-60,>50K
+25-44,non-private,Bachelors,Married-civ-spouse,Exec-managerial,Male,40-60,<=50K
+25-44,non-private,Bachelors,Married-civ-spouse,Sales,Male,40-60,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Prof-specialty,Female,40-60,>50K
+25-44,Private,Bachelors,Married-civ-spouse,Transport-moving,Male,35-40,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Adm-clerical,Male,35-40,<=50K
+25-44,non-private,Bachelors,Never-married,Prof-specialty,Male,35-40,<=50K
+25-44,Private,Bachelors,Never-married,Tech-support,Male,40-60,<=50K
+25-44,Private,Bachelors,Never-married,Adm-clerical,Female,35-40,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Sales,Male,40-60,<=50K
+25-44,non-private,Bachelors,Never-married,Prof-specialty,Male,35-40,<=50K
+25-44,non-private,Bachelors,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,Private,Bachelors,Divorced,Exec-managerial,Female,40-60,>50K
+25-44,Private,Bachelors,Married-civ-spouse,Exec-managerial,Male,35-40,>50K
+25-44,Private,Bachelors,Never-married,Craft-repair,Male,35-40,<=50K
+25-44,Private,Bachelors,Never-married,Prof-specialty,Female,40-60,>50K
+25-44,Private,Bachelors,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+25-44,Private,Bachelors,Never-married,Sales,Male,40-60,<=50K
+25-44,Private,Bachelors,Never-married,Adm-clerical,Female,35-40,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Prof-specialty,Female,35-40,<=50K
+25-44,Private,Bachelors,Divorced,Tech-support,Female,35-40,<=50K
+25-44,Private,Bachelors,Never-married,Sales,Female,35-40,<=50K
+25-44,Private,Bachelors,Divorced,Adm-clerical,Female,35-40,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Prof-specialty,Female,20-35,>50K
+25-44,Private,Bachelors,Married-civ-spouse,Craft-repair,Male,40-60,>50K
+25-44,Private,Bachelors,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,Private,Bachelors,Never-married,Prof-specialty,Male,35-40,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Prof-specialty,Male,60-99,>50K
+25-44,Private,Bachelors,Married-civ-spouse,Sales,Male,40-60,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Adm-clerical,Female,20-35,<=50K
+25-44,Private,Bachelors,Divorced,Handlers-cleaners,Male,35-40,<=50K
+25-44,Private,Bachelors,Never-married,Handlers-cleaners,Male,20-35,<=50K
+25-44,Private,Bachelors,Divorced,Adm-clerical,Female,20-35,<=50K
+25-44,Private,Bachelors,Never-married,Exec-managerial,Female,35-40,<=50K
+25-44,non-private,Bachelors,Married-civ-spouse,Farming-fishing,Male,60-99,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Exec-managerial,Male,35-40,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Sales,Male,40-60,>50K
+25-44,Private,Bachelors,Never-married,Exec-managerial,Male,40-60,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+25-44,Private,Bachelors,Divorced,Exec-managerial,Female,35-40,>50K
+25-44,Private,Bachelors,Married-civ-spouse,Farming-fishing,Male,40-60,<=50K
+25-44,non-private,Bachelors,Married-civ-spouse,Farming-fishing,Male,35-40,>50K
+25-44,non-private,Bachelors,Married-civ-spouse,Other-service,Male,40-60,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Prof-specialty,Male,35-40,<=50K
+25-44,non-private,Bachelors,Married-civ-spouse,Prof-specialty,Female,35-40,>50K
+25-44,non-private,Bachelors,Married-civ-spouse,Adm-clerical,Male,35-40,<=50K
+25-44,Private,Bachelors,Widowed,Adm-clerical,Male,40-60,<=50K
+25-44,non-private,Bachelors,Never-married,Adm-clerical,Male,35-40,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,non-private,Bachelors,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,Private,Bachelors,Divorced,Prof-specialty,Male,35-40,<=50K
+25-44,non-private,Bachelors,Married-civ-spouse,Exec-managerial,Male,35-40,>50K
+25-44,Private,Bachelors,Married-civ-spouse,Exec-managerial,Male,40-60,<=50K
+25-44,non-private,Bachelors,Never-married,Prof-specialty,Male,40-60,>50K
+25-44,Private,Bachelors,Married-civ-spouse,Adm-clerical,Female,20-35,<=50K
+25-44,Private,Bachelors,Never-married,Prof-specialty,Male,35-40,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Tech-support,Male,40-60,<=50K
+25-44,non-private,Bachelors,Married-civ-spouse,Adm-clerical,Female,40-60,>50K
+25-44,non-private,Bachelors,Married-civ-spouse,Exec-managerial,Female,40-60,>50K
+25-44,Private,Bachelors,Never-married,Exec-managerial,Male,40-60,<=50K
+25-44,non-private,Bachelors,Never-married,Prof-specialty,Male,35-40,<=50K
+25-44,Private,Bachelors,Never-married,Prof-specialty,Female,35-40,>50K
+25-44,Private,Bachelors,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,Private,Bachelors,Separated,Prof-specialty,Female,35-40,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Prof-specialty,Male,35-40,>50K
+25-44,non-private,Bachelors,Never-married,Tech-support,Female,40-60,<=50K
+25-44,non-private,Bachelors,Married-civ-spouse,Craft-repair,Male,40-60,>50K
+25-44,Private,Bachelors,Never-married,Exec-managerial,Female,40-60,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Exec-managerial,Male,35-40,>50K
+25-44,non-private,Bachelors,Divorced,Prof-specialty,Female,40-60,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Prof-specialty,Female,20-Aug,>50K
+25-44,Private,Bachelors,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,Private,Bachelors,Never-married,Adm-clerical,Male,35-40,<=50K
+25-44,non-private,Bachelors,Married-civ-spouse,Exec-managerial,Male,35-40,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Craft-repair,Male,40-60,>50K
+25-44,Private,Bachelors,Never-married,Prof-specialty,Female,40-60,<=50K
+25-44,non-private,Bachelors,Never-married,Other-service,Male,35-40,<=50K
+25-44,Private,Bachelors,Never-married,Tech-support,Female,35-40,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Exec-managerial,Male,40-60,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Tech-support,Male,35-40,>50K
+25-44,non-private,Bachelors,Married-civ-spouse,Prof-specialty,Male,20-35,<=50K
+25-44,non-private,Bachelors,Married-civ-spouse,Sales,Male,40-60,<=50K
+25-44,non-private,Bachelors,Never-married,Exec-managerial,Male,40-60,<=50K
+25-44,Private,Bachelors,Married-civ-spouse,Adm-clerical,Male,35-40,>50K
+25-44,non-private,Bachelors,Never-married,Exec-managerial,Female,40-60,<=50K
+25-44,non-private,Bachelors,Married-civ-spouse,Exec-managerial,Male,35-40,<=50K
+25-44,Private,Doctorate,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+25-44,non-private,Doctorate,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+25-44,Private,Doctorate,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+25-44,Private,Doctorate,Married-civ-spouse,Prof-specialty,Male,40-60,<=50K
+25-44,non-private,Doctorate,Married-civ-spouse,Prof-specialty,Male,40-60,<=50K
+25-44,Private,Doctorate,Married-civ-spouse,Prof-specialty,Male,40-60,<=50K
+25-44,Private,Doctorate,Married-civ-spouse,Prof-specialty,Male,35-40,>50K
+25-44,Private,HS-grad,Married-civ-spouse,Farming-fishing,Male,40-60,<=50K
+25-44,non-private,HS-grad,Never-married,Other-service,Male,35-40,<=50K
+25-44,Private,HS-grad,Never-married,Adm-clerical,Female,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Adm-clerical,Female,20-35,<=50K
+25-44,Private,HS-grad,Widowed,Machine-op-inspct,Female,20-Aug,<=50K
+25-44,Private,HS-grad,Divorced,Exec-managerial,Female,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Farming-fishing,Male,35-40,<=50K
+25-44,Private,HS-grad,Divorced,Handlers-cleaners,Male,35-40,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,Private,HS-grad,Married-civ-spouse,Handlers-cleaners,Male,35-40,<=50K
+25-44,Private,HS-grad,Never-married,Machine-op-inspct,Female,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Sales,Male,40-60,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,40-60,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Craft-repair,Male,40-60,>50K
+25-44,Private,HS-grad,Separated,Machine-op-inspct,Female,40-60,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Protective-serv,Male,35-40,<=50K
+25-44,Private,HS-grad,Never-married,Transport-moving,Male,35-40,<=50K
+25-44,Private,HS-grad,Never-married,Handlers-cleaners,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-spouse-absent,Adm-clerical,Female,35-40,<=50K
+25-44,Private,HS-grad,Divorced,Handlers-cleaners,Female,35-40,<=50K
+25-44,Private,HS-grad,Never-married,Prof-specialty,Male,35-40,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Craft-repair,Male,40-60,>50K
+25-44,Private,HS-grad,Married-civ-spouse,Sales,Male,40-60,>50K
+25-44,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Female,20-35,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,non-private,HS-grad,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,Private,HS-grad,Married-civ-spouse,Sales,Male,35-40,>50K
+25-44,non-private,HS-grad,Never-married,Craft-repair,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Sales,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Sales,Male,40-60,>50K
+25-44,non-private,HS-grad,Married-civ-spouse,Other-service,Female,35-40,>50K
+25-44,Private,HS-grad,Divorced,Sales,Female,35-40,<=50K
+25-44,Private,HS-grad,Never-married,Prof-specialty,Female,40-60,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Handlers-cleaners,Male,35-40,>50K
+25-44,non-private,HS-grad,Never-married,Other-service,Male,20-35,<=50K
+25-44,Private,HS-grad,Never-married,Craft-repair,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Tech-support,Male,35-40,>50K
+25-44,Private,HS-grad,Never-married,Other-service,Female,20-35,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Transport-moving,Male,35-40,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Other-service,Female,40-60,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Handlers-cleaners,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Sales,Female,35-40,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,HS-grad,Never-married,Other-service,Female,35-40,<=50K
+25-44,non-private,HS-grad,Never-married,Other-service,Male,35-40,<=50K
+25-44,Private,HS-grad,Divorced,Other-service,Male,40-60,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Craft-repair,Male,35-40,>50K
+25-44,Private,HS-grad,Married-civ-spouse,Handlers-cleaners,Male,35-40,>50K
+25-44,Private,HS-grad,Never-married,Exec-managerial,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,40-60,<=50K
+25-44,Private,HS-grad,Divorced,Exec-managerial,Female,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Adm-clerical,Female,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Adm-clerical,Female,20-35,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+25-44,Private,HS-grad,Separated,Handlers-cleaners,Male,35-40,<=50K
+25-44,Private,HS-grad,Divorced,Adm-clerical,Female,40-60,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Farming-fishing,Male,60-99,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Transport-moving,Male,35-40,>50K
+25-44,Private,HS-grad,Divorced,Exec-managerial,Female,35-40,>50K
+25-44,Private,HS-grad,Never-married,Other-service,Female,35-40,<=50K
+25-44,non-private,HS-grad,Divorced,Adm-clerical,Female,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Transport-moving,Male,60-99,>50K
+25-44,non-private,HS-grad,Never-married,Craft-repair,Male,40-60,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Exec-managerial,Male,35-40,>50K
+25-44,non-private,HS-grad,Married-civ-spouse,Exec-managerial,Male,35-40,>50K
+25-44,Private,HS-grad,Never-married,Transport-moving,Male,35-40,<=50K
+25-44,non-private,HS-grad,Never-married,Other-service,Female,35-40,<=50K
+25-44,Private,HS-grad,Separated,Machine-op-inspct,Male,40-60,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Other-service,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,60-99,<=50K
+25-44,Private,HS-grad,Never-married,Transport-moving,Male,40-60,<=50K
+25-44,Private,HS-grad,Never-married,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Adm-clerical,Female,35-40,>50K
+25-44,Private,HS-grad,Married-civ-spouse,Handlers-cleaners,Male,20-35,<=50K
+25-44,Private,HS-grad,Divorced,Craft-repair,Female,35-40,<=50K
+25-44,Private,HS-grad,Separated,Adm-clerical,Male,35-40,>50K
+25-44,Private,HS-grad,Never-married,Exec-managerial,Female,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Adm-clerical,Male,35-40,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Exec-managerial,Male,40-60,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Transport-moving,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+25-44,Private,HS-grad,Divorced,Sales,Male,40-60,<=50K
+25-44,Private,HS-grad,Divorced,Craft-repair,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Handlers-cleaners,Male,35-40,<=50K
+25-44,Private,HS-grad,Never-married,Exec-managerial,Male,40-60,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Other-service,Female,20-Aug,>50K
+25-44,non-private,HS-grad,Married-civ-spouse,Transport-moving,Male,60-99,>50K
+25-44,Private,HS-grad,Never-married,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,HS-grad,Separated,Tech-support,Female,35-40,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Transport-moving,Male,40-60,>50K
+25-44,non-private,HS-grad,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Craft-repair,Male,40-60,>50K
+25-44,Private,HS-grad,Separated,Adm-clerical,Female,35-40,<=50K
+25-44,Private,HS-grad,Never-married,Craft-repair,Male,35-40,<=50K
+25-44,Private,HS-grad,Separated,Other-service,Female,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+25-44,Private,HS-grad,Never-married,Craft-repair,Male,35-40,>50K
+25-44,Private,HS-grad,Divorced,Exec-managerial,Male,35-40,<=50K
+25-44,Private,HS-grad,Separated,Machine-op-inspct,Female,20-35,<=50K
+25-44,Private,HS-grad,Never-married,Transport-moving,Male,35-40,<=50K
+25-44,Private,HS-grad,Never-married,Adm-clerical,Female,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,HS-grad,Separated,Handlers-cleaners,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-spouse-absent,Adm-clerical,Male,40-60,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,HS-grad,Never-married,Other-service,Male,35-40,<=50K
+25-44,non-private,HS-grad,Never-married,Adm-clerical,Female,20-Aug,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Sales,Male,35-40,<=50K
+25-44,Private,HS-grad,Divorced,Sales,Male,40-60,<=50K
+25-44,Private,HS-grad,Never-married,Exec-managerial,Female,35-40,<=50K
+25-44,Private,HS-grad,Divorced,Machine-op-inspct,Male,35-40,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Exec-managerial,Male,60-99,<=50K
+25-44,Private,HS-grad,Divorced,Sales,Female,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Transport-moving,Male,35-40,<=50K
+25-44,Private,HS-grad,Divorced,Machine-op-inspct,Female,35-40,<=50K
+25-44,Private,HS-grad,Divorced,Sales,Female,20-35,<=50K
+25-44,Private,HS-grad,Divorced,Adm-clerical,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,35-40,>50K
+25-44,non-private,HS-grad,Married-spouse-absent,Other-service,Female,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,HS-grad,Never-married,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+25-44,non-private,HS-grad,Never-married,Other-service,Male,20-35,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+25-44,Private,HS-grad,Divorced,Machine-op-inspct,Female,20-35,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,40-60,<=50K
+25-44,Private,HS-grad,Divorced,Craft-repair,Female,35-40,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Craft-repair,Male,40-60,>50K
+25-44,non-private,HS-grad,Divorced,Prof-specialty,Male,20-35,<=50K
+25-44,Private,HS-grad,Never-married,Adm-clerical,Female,35-40,<=50K
+25-44,Private,HS-grad,Separated,Handlers-cleaners,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Handlers-cleaners,Male,20-35,<=50K
+25-44,Private,HS-grad,Never-married,Machine-op-inspct,Male,40-60,<=50K
+25-44,Private,HS-grad,Divorced,Other-service,Female,35-40,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Protective-serv,Female,35-40,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Tech-support,Male,40-60,>50K
+25-44,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+25-44,non-private,HS-grad,Divorced,Adm-clerical,Female,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,20-35,<=50K
+25-44,non-private,HS-grad,Married-civ-spouse,Sales,Male,40-60,<=50K
+25-44,Private,HS-grad,Divorced,Adm-clerical,Female,35-40,<=50K
+25-44,Private,HS-grad,Never-married,Handlers-cleaners,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Sales,Male,35-40,>50K
+25-44,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,20-35,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+25-44,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,60-99,>50K
+25-44,Private,HS-grad,Never-married,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,HS-grad,Separated,Craft-repair,Male,35-40,<=50K
+25-44,Private,HS-grad,Divorced,Protective-serv,Male,35-40,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+25-44,Private,HS-grad,Separated,Craft-repair,Male,40-60,<=50K
+25-44,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Female,35-40,<=50K
+25-44,Private,HS-grad,Divorced,Sales,Male,40-60,>50K
+25-44,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,35-40,>50K
+25-44,Private,HS-grad,Never-married,Machine-op-inspct,Male,40-60,<=50K
+25-44,Private,Less than High School,Never-married,Other-service,Male,20-35,<=50K
+25-44,Private,Less than High School,Separated,Machine-op-inspct,Female,35-40,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Craft-repair,Male,20-35,<=50K
+25-44,Private,Less than High School,Divorced,Adm-clerical,Female,35-40,<=50K
+25-44,Private,Less than High School,Divorced,Other-service,Female,35-40,<=50K
+25-44,non-private,Less than High School,Married-civ-spouse,Adm-clerical,Male,35-40,<=50K
+25-44,Private,Less than High School,Divorced,Machine-op-inspct,Male,20-35,<=50K
+25-44,Private,Less than High School,Never-married,Machine-op-inspct,Female,35-40,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Sales,Male,40-60,<=50K
+25-44,non-private,Less than High School,Married-civ-spouse,Transport-moving,Male,60-99,<=50K
+25-44,non-private,Less than High School,Never-married,Sales,Female,40-60,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Other-service,Male,35-40,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Other-service,Male,35-40,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Other-service,Female,20-35,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Sales,Female,20-Aug,<=50K
+25-44,Private,Less than High School,Never-married,Handlers-cleaners,Male,35-40,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Transport-moving,Male,60-99,>50K
+25-44,Private,Less than High School,Widowed,Adm-clerical,Female,35-40,<=50K
+25-44,Private,Less than High School,Divorced,Transport-moving,Female,35-40,<=50K
+25-44,non-private,Less than High School,Never-married,Protective-serv,Male,35-40,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Sales,Male,40-60,<=50K
+25-44,non-private,Less than High School,Married-civ-spouse,Exec-managerial,Male,35-40,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Exec-managerial,Male,35-40,<=50K
+25-44,non-private,Less than High School,Separated,Other-service,Male,35-40,<=50K
+25-44,non-private,Less than High School,Never-married,Other-service,Female,35-40,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+25-44,non-private,Less than High School,Divorced,Other-service,Female,35-40,<=50K
+25-44,Private,Less than High School,Divorced,Other-service,Male,20-35,<=50K
+25-44,Private,Less than High School,Never-married,Sales,Female,20-Aug,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Farming-fishing,Male,35-40,<=50K
+25-44,Private,Less than High School,Separated,Sales,Female,35-40,<=50K
+25-44,Private,Less than High School,Never-married,Transport-moving,Female,20-35,<=50K
+25-44,non-private,Less than High School,Never-married,Transport-moving,Male,35-40,<=50K
+25-44,Private,Less than High School,Divorced,Other-service,Male,35-40,<=50K
+25-44,non-private,Less than High School,Never-married,Other-service,Female,40-60,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Adm-clerical,Male,40-60,>50K
+25-44,Private,Less than High School,Married-civ-spouse,Other-service,Male,35-40,<=50K
+25-44,Private,Less than High School,Never-married,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,Less than High School,Never-married,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,Less than High School,Never-married,Other-service,Male,35-40,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+25-44,Private,Less than High School,Separated,Craft-repair,Male,35-40,<=50K
+25-44,non-private,Less than High School,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Other-service,Male,35-40,<=50K
+25-44,Private,Less than High School,Married-spouse-absent,Exec-managerial,Male,40-60,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Other-service,Male,20-35,>50K
+25-44,Private,Less than High School,Divorced,Other-service,Female,40-60,<=50K
+25-44,non-private,Less than High School,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+25-44,Private,Less than High School,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+25-44,non-private,Less than High School,Married-civ-spouse,Craft-repair,Male,60-99,<=50K
+25-44,non-private,Less than High School,Married-civ-spouse,Other-service,Male,35-40,<=50K
+25-44,non-private,Less than High School,Divorced,Other-service,Female,35-40,<=50K
+25-44,Private,Masters,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,Private,Masters,Never-married,Exec-managerial,Female,35-40,<=50K
+25-44,non-private,Masters,Married-civ-spouse,Other-service,Female,20-Aug,>50K
+25-44,Private,Masters,Married-civ-spouse,Prof-specialty,Female,20-Aug,>50K
+25-44,Private,Masters,Never-married,Other-service,Male,35-40,<=50K
+25-44,Private,Masters,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+25-44,Private,Masters,Never-married,Prof-specialty,Female,20-35,<=50K
+25-44,Private,Masters,Never-married,Prof-specialty,Male,35-40,<=50K
+25-44,Private,Masters,Never-married,Exec-managerial,Male,35-40,<=50K
+25-44,non-private,Masters,Never-married,Prof-specialty,Male,35-40,<=50K
+25-44,Private,Masters,Never-married,Exec-managerial,Female,35-40,<=50K
+25-44,Private,Masters,Married-civ-spouse,Prof-specialty,Male,40-60,<=50K
+25-44,Private,Masters,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,Private,Masters,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+25-44,non-private,Masters,Married-civ-spouse,Prof-specialty,Female,20-Aug,<=50K
+25-44,Private,Masters,Married-civ-spouse,Exec-managerial,Male,40-60,<=50K
+25-44,non-private,Masters,Married-civ-spouse,Prof-specialty,Male,35-40,>50K
+25-44,non-private,Masters,Divorced,Prof-specialty,Male,20-Aug,<=50K
+25-44,non-private,Masters,Never-married,Prof-specialty,Male,35-40,>50K
+25-44,Private,Masters,Married-civ-spouse,Prof-specialty,Female,20-35,<=50K
+25-44,non-private,Masters,Married-civ-spouse,Prof-specialty,Male,20-35,>50K
+25-44,non-private,Masters,Never-married,Sales,Female,20-35,<=50K
+25-44,Private,Masters,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,non-private,Masters,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,Private,Masters,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,Private,Masters,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,non-private,Masters,Never-married,Prof-specialty,Male,35-40,<=50K
+25-44,non-private,Masters,Divorced,Tech-support,Female,35-40,>50K
+25-44,non-private,Masters,Married-civ-spouse,Prof-specialty,Male,35-40,<=50K
+25-44,non-private,Professional Degree,Married-civ-spouse,Prof-specialty,Female,40-60,>50K
+25-44,Private,Professional Degree,Married-civ-spouse,Prof-specialty,Male,40-60,<=50K
+25-44,non-private,Professional Degree,Married-civ-spouse,Prof-specialty,Male,20-35,>50K
+25-44,Private,Professional Degree,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+25-44,non-private,Professional Degree,Widowed,Prof-specialty,Female,40-60,>50K
+25-44,non-private,Professional Degree,Married-civ-spouse,Prof-specialty,Male,40-60,<=50K
+25-44,non-private,Professional Degree,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+25-44,Private,Professional Degree,Married-civ-spouse,Prof-specialty,Male,40-60,>50K
+25-44,Private,Professional Degree,Married-civ-spouse,Exec-managerial,Male,35-40,>50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Protective-serv,Male,35-40,>50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,40-60,>50K
+25-44,Private,Some College or Associate's Degree,Never-married,Prof-specialty,Female,35-40,<=50K
+25-44,non-private,Some College or Associate's Degree,Never-married,Protective-serv,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Tech-support,Female,20-Aug,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Other-service,Male,20-35,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Prof-specialty,Female,20-35,>50K
+25-44,non-private,Some College or Associate's Degree,Married-spouse-absent,Other-service,Female,40-60,<=50K
+25-44,non-private,Some College or Associate's Degree,Never-married,Prof-specialty,Female,35-40,<=50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Other-service,Male,20-35,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Tech-support,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Machine-op-inspct,Male,40-60,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,40-60,>50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Sales,Male,40-60,>50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Prof-specialty,Female,35-40,>50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Male,35-40,>50K
+25-44,Private,Some College or Associate's Degree,Widowed,Exec-managerial,Female,20-35,<=50K
+25-44,non-private,Some College or Associate's Degree,Divorced,Craft-repair,Female,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Separated,Craft-repair,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Divorced,Tech-support,Female,40-60,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Craft-repair,Male,40-60,<=50K
+25-44,non-private,Some College or Associate's Degree,Never-married,Farming-fishing,Male,40-60,>50K
+25-44,Private,Some College or Associate's Degree,Divorced,Craft-repair,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Separated,Adm-clerical,Female,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Other-service,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Other-service,Male,35-40,<=50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Farming-fishing,Male,60-99,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Sales,Male,40-60,>50K
+25-44,Private,Some College or Associate's Degree,Never-married,Craft-repair,Male,35-40,<=50K
+25-44,non-private,Some College or Associate's Degree,Divorced,Adm-clerical,Male,40-60,<=50K
+25-44,Private,Some College or Associate's Degree,Divorced,Adm-clerical,Female,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Separated,Sales,Female,20-35,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Tech-support,Male,40-60,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Tech-support,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,40-60,>50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Other-service,Female,35-40,>50K
+25-44,non-private,Some College or Associate's Degree,Divorced,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Machine-op-inspct,Male,35-40,>50K
+25-44,Private,Some College or Associate's Degree,Never-married,Other-service,Female,20-35,<=50K
+25-44,non-private,Some College or Associate's Degree,Never-married,Prof-specialty,Male,40-60,<=50K
+25-44,Private,Some College or Associate's Degree,Divorced,Sales,Male,35-40,<=50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Adm-clerical,Female,20-35,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Handlers-cleaners,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Divorced,Tech-support,Female,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Adm-clerical,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Other-service,Male,20-Aug,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Handlers-cleaners,Female,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Male,35-40,>50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Male,40-60,>50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Machine-op-inspct,Male,35-40,>50K
+25-44,Private,Some College or Associate's Degree,Divorced,Exec-managerial,Female,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Transport-moving,Male,40-60,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Sales,Male,40-60,>50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Sales,Female,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Prof-specialty,Female,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Handlers-cleaners,Male,35-40,>50K
+25-44,Private,Some College or Associate's Degree,Divorced,Tech-support,Female,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Machine-op-inspct,Female,40-60,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Sales,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,35-40,>50K
+25-44,non-private,Some College or Associate's Degree,Divorced,Adm-clerical,Female,35-40,<=50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Farming-fishing,Male,40-60,>50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Other-service,Female,20-Aug,>50K
+25-44,Private,Some College or Associate's Degree,Divorced,Craft-repair,Male,40-60,<=50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Female,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Sales,Male,60-99,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Exec-managerial,Female,35-40,<=50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Prof-specialty,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Adm-clerical,Female,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Adm-clerical,Female,35-40,>50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Male,40-60,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-AF-spouse,Sales,Female,20-Aug,<=50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,35-40,>50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,35-40,>50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Tech-support,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Divorced,Adm-clerical,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,35-40,>50K
+25-44,Private,Some College or Associate's Degree,Never-married,Adm-clerical,Female,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Adm-clerical,Male,40-60,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Adm-clerical,Female,40-60,>50K
+25-44,Private,Some College or Associate's Degree,Never-married,Other-service,Female,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Handlers-cleaners,Male,35-40,>50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Protective-serv,Male,40-60,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Sales,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Farming-fishing,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Divorced,Craft-repair,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Other-service,Male,20-35,<=50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Protective-serv,Male,60-99,>50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,35-40,>50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Transport-moving,Male,40-60,>50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Protective-serv,Male,40-60,>50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Protective-serv,Male,35-40,>50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Craft-repair,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Divorced,Exec-managerial,Male,40-60,<=50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Other-service,Male,<8,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Other-service,Female,20-35,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Sales,Female,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Other-service,Male,40-60,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Transport-moving,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Sales,Male,40-60,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Sales,Male,35-40,>50K
+25-44,Private,Some College or Associate's Degree,Never-married,Adm-clerical,Female,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Adm-clerical,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Sales,Male,40-60,<=50K
+25-44,Private,Some College or Associate's Degree,Married-civ-spouse,Protective-serv,Male,40-60,<=50K
+25-44,Private,Some College or Associate's Degree,Never-married,Exec-managerial,Male,35-40,<=50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Adm-clerical,Male,35-40,>50K
+25-44,non-private,Some College or Associate's Degree,Married-civ-spouse,Exec-managerial,Male,35-40,<=50K
+25-44,Private,Some College or Associate's Degree,Divorced,Other-service,Female,40-60,>50K
+18-25,Private,Bachelors,Never-married,Prof-specialty,Male,40-60,<=50K
+18-25,Private,Bachelors,Married-civ-spouse,Prof-specialty,Male,35-40,<=50K
+18-25,non-private,Bachelors,Never-married,Sales,Male,40-60,<=50K
+18-25,Private,Bachelors,Never-married,Exec-managerial,Male,35-40,<=50K
+18-25,Private,Bachelors,Never-married,Exec-managerial,Female,35-40,<=50K
+18-25,Private,Bachelors,Never-married,Sales,Male,20-35,<=50K
+18-25,Private,Bachelors,Never-married,Tech-support,Female,20-35,<=50K
+18-25,Private,Bachelors,Never-married,Exec-managerial,Female,40-60,<=50K
+18-25,Private,Bachelors,Married-civ-spouse,Prof-specialty,Male,35-40,>50K
+18-25,Private,Bachelors,Never-married,Adm-clerical,Male,35-40,<=50K
+18-25,Private,Bachelors,Never-married,Sales,Male,40-60,<=50K
+18-25,Private,Bachelors,Married-civ-spouse,Sales,Male,35-40,<=50K
+18-25,Private,Bachelors,Never-married,Sales,Female,35-40,<=50K
+18-25,Private,Bachelors,Never-married,Adm-clerical,Male,35-40,<=50K
+18-25,non-private,Bachelors,Never-married,Exec-managerial,Female,35-40,<=50K
+18-25,Private,Bachelors,Never-married,Prof-specialty,Male,20-35,<=50K
+18-25,non-private,Bachelors,Never-married,Prof-specialty,Female,35-40,<=50K
+18-25,non-private,Bachelors,Never-married,Sales,Female,35-40,<=50K
+18-25,Private,Bachelors,Never-married,Prof-specialty,Male,40-60,>50K
+18-25,non-private,Bachelors,Never-married,Adm-clerical,Female,35-40,<=50K
+18-25,Private,Bachelors,Married-civ-spouse,Farming-fishing,Male,20-35,>50K
+18-25,Private,Bachelors,Never-married,Tech-support,Male,40-60,<=50K
+18-25,Private,Bachelors,Never-married,Sales,Male,35-40,<=50K
+18-25,non-private,Bachelors,Never-married,Exec-managerial,Female,35-40,>50K
+18-25,Private,Bachelors,Never-married,Other-service,Female,20-35,<=50K
+18-25,Private,Bachelors,Never-married,Sales,Male,20-35,<=50K
+18-25,Private,Bachelors,Never-married,Prof-specialty,Male,20-35,<=50K
+18-25,Private,Bachelors,Never-married,Exec-managerial,Male,40-60,<=50K
+18-25,non-private,Bachelors,Never-married,Adm-clerical,Female,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Adm-clerical,Male,20-Aug,<=50K
+18-25,Private,HS-grad,Separated,Machine-op-inspct,Male,40-60,<=50K
+18-25,Private,HS-grad,Never-married,Craft-repair,Male,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Other-service,Male,40-60,>50K
+18-25,Private,HS-grad,Never-married,Handlers-cleaners,Male,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Adm-clerical,Female,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Other-service,Female,20-35,<=50K
+18-25,Private,HS-grad,Never-married,Machine-op-inspct,Female,40-60,<=50K
+18-25,non-private,HS-grad,Never-married,Other-service,Female,20-Aug,<=50K
+18-25,Private,HS-grad,Never-married,Craft-repair,Female,35-40,<=50K
+18-25,non-private,HS-grad,Never-married,Other-service,Female,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Sales,Male,20-35,<=50K
+18-25,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+18-25,Private,HS-grad,Never-married,Handlers-cleaners,Male,20-35,<=50K
+18-25,Private,HS-grad,Never-married,Machine-op-inspct,Male,40-60,<=50K
+18-25,Private,HS-grad,Never-married,Other-service,Female,40-60,<=50K
+18-25,Private,HS-grad,Never-married,Machine-op-inspct,Female,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Machine-op-inspct,Female,35-40,<=50K
+18-25,non-private,HS-grad,Never-married,Other-service,Female,20-35,<=50K
+18-25,Private,HS-grad,Married-civ-spouse,Exec-managerial,Male,60-99,<=50K
+18-25,Private,HS-grad,Never-married,Other-service,Female,20-35,<=50K
+18-25,Private,HS-grad,Never-married,Handlers-cleaners,Female,20-35,<=50K
+18-25,Private,HS-grad,Never-married,Machine-op-inspct,Male,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Machine-op-inspct,Male,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Sales,Male,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Handlers-cleaners,Male,20-Aug,<=50K
+18-25,Private,HS-grad,Never-married,Sales,Female,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Handlers-cleaners,Male,20-35,<=50K
+18-25,Private,HS-grad,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Exec-managerial,Female,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Craft-repair,Male,20-Aug,<=50K
+18-25,Private,HS-grad,Never-married,Craft-repair,Female,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Handlers-cleaners,Male,60-99,<=50K
+18-25,Private,HS-grad,Never-married,Other-service,Male,20-Aug,<=50K
+18-25,Private,HS-grad,Never-married,Adm-clerical,Female,20-35,<=50K
+18-25,Private,HS-grad,Never-married,Handlers-cleaners,Male,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Transport-moving,Male,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Adm-clerical,Female,20-Aug,<=50K
+18-25,Private,HS-grad,Never-married,Transport-moving,Male,35-40,<=50K
+18-25,non-private,HS-grad,Never-married,Other-service,Male,35-40,<=50K
+18-25,Private,HS-grad,Married-civ-spouse,Sales,Male,35-40,>50K
+18-25,Private,HS-grad,Never-married,Other-service,Female,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Other-service,Male,20-35,<=50K
+18-25,Private,HS-grad,Never-married,Sales,Female,20-35,<=50K
+18-25,Private,HS-grad,Divorced,Other-service,Female,20-35,<=50K
+18-25,Private,HS-grad,Never-married,Adm-clerical,Female,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Other-service,Female,35-40,<=50K
+18-25,Private,HS-grad,Married-civ-spouse,Other-service,Male,40-60,<=50K
+18-25,Private,HS-grad,Married-civ-spouse,Other-service,Female,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Prof-specialty,Female,35-40,<=50K
+18-25,non-private,HS-grad,Married-civ-spouse,Farming-fishing,Male,35-40,<=50K
+18-25,Private,HS-grad,Married-civ-spouse,Transport-moving,Male,35-40,<=50K
+18-25,Private,HS-grad,Married-civ-spouse,Other-service,Female,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Tech-support,Male,35-40,<=50K
+18-25,non-private,HS-grad,Never-married,Protective-serv,Male,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Adm-clerical,Male,20-35,<=50K
+18-25,Private,HS-grad,Never-married,Handlers-cleaners,Male,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Protective-serv,Male,35-40,<=50K
+18-25,Private,HS-grad,Married-spouse-absent,Machine-op-inspct,Male,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Handlers-cleaners,Male,20-35,<=50K
+18-25,Private,HS-grad,Married-civ-spouse,Sales,Female,35-40,<=50K
+18-25,non-private,HS-grad,Never-married,Other-service,Female,20-35,<=50K
+18-25,Private,HS-grad,Married-civ-spouse,Machine-op-inspct,Male,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Exec-managerial,Male,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Adm-clerical,Female,40-60,<=50K
+18-25,Private,HS-grad,Never-married,Other-service,Male,20-35,<=50K
+18-25,Private,HS-grad,Never-married,Sales,Female,35-40,<=50K
+18-25,Private,HS-grad,Never-married,Adm-clerical,Male,40-60,<=50K
+18-25,Private,HS-grad,Married-civ-spouse,Other-service,Female,35-40,<=50K
+18-25,non-private,HS-grad,Never-married,Other-service,Female,40-60,<=50K
+18-25,non-private,Less than High School,Never-married,Other-service,Male,35-40,<=50K
+18-25,Private,Less than High School,Never-married,Sales,Female,20-Aug,<=50K
+18-25,Private,Less than High School,Married-civ-spouse,Farming-fishing,Male,35-40,<=50K
+18-25,Private,Less than High School,Never-married,Sales,Female,35-40,<=50K
+18-25,Private,Less than High School,Never-married,Machine-op-inspct,Male,35-40,<=50K
+18-25,Private,Less than High School,Never-married,Sales,Female,20-35,<=50K
+18-25,non-private,Less than High School,Never-married,Other-service,Male,35-40,<=50K
+18-25,Private,Less than High School,Never-married,Farming-fishing,Male,35-40,<=50K
+18-25,Private,Less than High School,Never-married,Machine-op-inspct,Male,35-40,<=50K
+18-25,non-private,Less than High School,Never-married,Other-service,Female,20-Aug,<=50K
+18-25,Private,Less than High School,Never-married,Other-service,Female,20-35,<=50K
+18-25,Private,Less than High School,Never-married,Craft-repair,Male,35-40,<=50K
+18-25,Private,Less than High School,Never-married,Sales,Male,20-Aug,<=50K
+18-25,Private,Less than High School,Never-married,Handlers-cleaners,Male,20-35,<=50K
+18-25,Private,Less than High School,Never-married,Other-service,Male,20-Aug,<=50K
+18-25,Private,Less than High School,Never-married,Other-service,Male,20-Aug,<=50K
+18-25,Private,Less than High School,Never-married,Sales,Male,20-35,<=50K
+18-25,Private,Less than High School,Married-civ-spouse,Transport-moving,Male,35-40,<=50K
+18-25,Private,Less than High School,Never-married,Craft-repair,Male,<8,<=50K
+18-25,non-private,Less than High School,Never-married,Handlers-cleaners,Male,20-35,<=50K
+18-25,Private,Less than High School,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+18-25,Private,Less than High School,Never-married,Sales,Female,20-Aug,<=50K
+18-25,Private,Less than High School,Never-married,Priv-house-serv,Male,35-40,<=50K
+18-25,Private,Less than High School,Never-married,Machine-op-inspct,Male,35-40,<=50K
+18-25,Private,Less than High School,Never-married,Priv-house-serv,Male,40-60,<=50K
+18-25,Private,Less than High School,Never-married,Machine-op-inspct,Male,35-40,<=50K
+18-25,Private,Less than High School,Never-married,Handlers-cleaners,Male,35-40,<=50K
+18-25,non-private,Less than High School,Never-married,Craft-repair,Male,20-Aug,<=50K
+18-25,non-private,Less than High School,Separated,Other-service,Female,35-40,<=50K
+18-25,Private,Less than High School,Never-married,Farming-fishing,Male,20-35,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Other-service,Male,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Sales,Female,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Exec-managerial,Male,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Married-civ-spouse,Machine-op-inspct,Male,40-60,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Adm-clerical,Female,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,40-60,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Craft-repair,Male,35-40,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Other-service,Female,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Other-service,Female,35-40,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Other-service,Male,20-35,<=50K
+18-25,non-private,Some College or Associate's Degree,Married-civ-spouse,Protective-serv,Male,35-40,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Farming-fishing,Male,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Other-service,Male,20-Aug,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Other-service,Female,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Adm-clerical,Female,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Other-service,Male,20-Aug,<=50K
+18-25,Private,Some College or Associate's Degree,Separated,Handlers-cleaners,Female,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Adm-clerical,Female,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Separated,Other-service,Male,35-40,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Armed-Forces,Male,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Transport-moving,Male,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Handlers-cleaners,Male,20-Aug,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Sales,Female,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Protective-serv,Male,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Adm-clerical,Female,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Adm-clerical,Female,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Other-service,Female,40-60,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Other-service,Female,20-Aug,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Adm-clerical,Female,20-Aug,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Sales,Male,20-Aug,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Machine-op-inspct,Male,20-35,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Other-service,Female,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Protective-serv,Male,40-60,<=50K
+18-25,Private,Some College or Associate's Degree,Married-civ-spouse,Other-service,Male,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Handlers-cleaners,Male,20-Aug,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Handlers-cleaners,Male,35-40,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Other-service,Male,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Sales,Female,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Divorced,Protective-serv,Male,35-40,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Other-service,Male,40-60,<=50K
+18-25,Private,Some College or Associate's Degree,Married-civ-spouse,Sales,Male,60-99,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Tech-support,Male,35-40,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Other-service,Female,20-35,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Other-service,Female,20-Aug,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Sales,Female,20-Aug,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Adm-clerical,Male,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Machine-op-inspct,Male,40-60,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Protective-serv,Male,20-35,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Other-service,Female,20-Aug,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Other-service,Male,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Machine-op-inspct,Male,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Sales,Male,20-Aug,<=50K
+18-25,Private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Machine-op-inspct,Male,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Other-service,Female,20-Aug,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Farming-fishing,Male,20-Aug,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Adm-clerical,Female,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Prof-specialty,Female,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Protective-serv,Male,20-35,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Adm-clerical,Female,20-Aug,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Machine-op-inspct,Male,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Exec-managerial,Female,35-40,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Other-service,Male,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Adm-clerical,Female,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Sales,Female,20-Aug,<=50K
+18-25,non-private,Some College or Associate's Degree,Divorced,Other-service,Male,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Adm-clerical,Female,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Exec-managerial,Male,40-60,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Adm-clerical,Female,35-40,<=50K
+18-25,non-private,Some College or Associate's Degree,Married-civ-spouse,Protective-serv,Male,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Craft-repair,Male,35-40,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Other-service,Male,20-Aug,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Other-service,Female,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Sales,Male,40-60,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Priv-house-serv,Female,20-35,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Other-service,Male,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Adm-clerical,Female,35-40,<=50K
+18-25,non-private,Some College or Associate's Degree,Married-civ-spouse,Craft-repair,Male,35-40,>50K
+18-25,non-private,Some College or Associate's Degree,Married-civ-spouse,Protective-serv,Male,35-40,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Other-service,Female,20-Aug,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Other-service,Female,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Other-service,Male,35-40,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Prof-specialty,Female,20-35,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Adm-clerical,Male,35-40,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Other-service,Female,35-40,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Exec-managerial,Female,35-40,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Farming-fishing,Male,35-40,<=50K
+18-25,non-private,Some College or Associate's Degree,Never-married,Other-service,Female,20-35,<=50K
+18-25,Private,Some College or Associate's Degree,Never-married,Other-service,Male,20-35,<=50K

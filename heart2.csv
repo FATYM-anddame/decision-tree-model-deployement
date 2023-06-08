@@ -1,0 +1,921 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalch,exang,oldpeak,slope,num
+60-70,Male,typical angina,Moderate or Severe Hypertension,Borderline high,1,lv hypertrophy,High,0,Abnormal High,downsloping,0
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,0,lv hypertrophy,Low,1,Abnormal High,flat,2
+60-70,Male,asymptomatic,normal,Borderline high,0,lv hypertrophy,Medium,1,Abnormal High,flat,1
+28-42,Male,non-anginal,Mild Hypertension,high,0,NORMAL,High,0,Abnormal High,downsloping,0
+28-42,Female,atypical angina,Mild Hypertension,Borderline high,0,lv hypertrophy,High,0,Abnormal High,upsloping,0
+55-60,Male,atypical angina,normal,Borderline high,0,NORMAL,High,0,Abnormal Low,upsloping,0
+60-70,Female,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,0,Abnormal High,downsloping,3
+55-60,Female,asymptomatic,normal,high,0,NORMAL,High,1,Abnormal Low,upsloping,0
+60-70,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,0,Abnormal High,flat,2
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,1,lv hypertrophy,High,1,Abnormal High,downsloping,1
+55-60,Male,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,High,0,Abnormal Low,flat,0
+55-60,Female,atypical angina,Mild Hypertension,high,0,lv hypertrophy,High,0,Abnormal High,flat,0
+55-60,Male,non-anginal,Mild Hypertension,high,1,lv hypertrophy,High,1,Abnormal Low,flat,2
+42-48,Male,atypical angina,normal,high,0,NORMAL,High,0,Normal,upsloping,0
+48-55,Male,non-anginal,Moderate or Severe Hypertension,Desirable,1,NORMAL,High,0,Abnormal Low,upsloping,0
+55-60,Male,non-anginal,Moderate or Severe Hypertension,Desirable,0,NORMAL,High,0,Abnormal High,upsloping,0
+42-48,Male,atypical angina,normal,Borderline high,0,NORMAL,High,0,Abnormal Low,downsloping,1
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,High,0,Abnormal High,upsloping,0
+42-48,Female,non-anginal,Mild Hypertension,high,0,NORMAL,Medium,0,Abnormal Low,upsloping,0
+48-55,Male,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Abnormal Low,upsloping,0
+60-70,Male,typical angina,normal,Borderline high,0,lv hypertrophy,High,1,Abnormal High,flat,0
+55-60,Female,typical angina,Moderate or Severe Hypertension,high,1,lv hypertrophy,High,0,Abnormal Low,upsloping,0
+55-60,Male,atypical angina,normal,high,0,lv hypertrophy,High,0,Abnormal High,flat,1
+55-60,Male,non-anginal,Mild Hypertension,Borderline high,0,lv hypertrophy,High,0,Abnormal High,upsloping,3
+55-60,Male,asymptomatic,Mild Hypertension,Borderline high,0,lv hypertrophy,Medium,1,Abnormal High,flat,4
+48-55,Female,non-anginal,normal,Borderline high,0,NORMAL,High,0,Abnormal High,flat,0
+55-60,Female,non-anginal,normal,high,0,NORMAL,High,0,Normal,upsloping,0
+60-70,Female,typical angina,Moderate or Severe Hypertension,Borderline high,0,NORMAL,Low,0,Abnormal High,downsloping,0
+42-48,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,High,0,Abnormal High,upsloping,0
+28-42,Male,asymptomatic,normal,Desirable,0,lv hypertrophy,Low,1,Abnormal High,flat,3
+60-70,Female,typical angina,Mild Hypertension,Borderline high,0,NORMAL,High,0,Abnormal High,upsloping,0
+55-60,Male,asymptomatic,normal,Borderline high,1,NORMAL,High,1,Abnormal High,upsloping,2
+60-70,Male,non-anginal,Mild Hypertension,high,0,NORMAL,High,0,Normal,upsloping,1
+55-60,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,High,0,Abnormal Low,flat,0
+42-48,Male,non-anginal,Mild Hypertension,Borderline high,0,NORMAL,High,1,Abnormal Low,upsloping,0
+28-42,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,High,0,Normal,upsloping,0
+42-48,Male,asymptomatic,normal,Desirable,0,lv hypertrophy,Low,1,Abnormal High,flat,3
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,high,0,lv hypertrophy,Low,1,Abnormal Low,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal High,flat,3
+60-70,Male,non-anginal,Moderate or Severe Hypertension,high,1,NORMAL,Medium,1,Abnormal Low,flat,0
+60-70,Female,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,lv hypertrophy,Low,0,Abnormal Low,flat,4
+28-42,Male,typical angina,Mild Hypertension,Desirable,0,NORMAL,High,1,Abnormal High,upsloping,0
+60-70,Female,atypical angina,Moderate or Severe Hypertension,high,0,NORMAL,High,0,Abnormal Low,upsloping,0
+55-60,Male,non-anginal,Moderate or Severe Hypertension,Borderline high,1,NORMAL,High,0,Abnormal High,upsloping,0
+60-70,Female,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,0,Normal,upsloping,1
+55-60,Male,non-anginal,normal,Borderline high,0,lv hypertrophy,High,0,Abnormal High,flat,4
+48-55,Male,non-anginal,normal,Desirable,0,NORMAL,Medium,0,Abnormal Low,upsloping,0
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,high,0,lv hypertrophy,Medium,0,Abnormal High,flat,4
+60-70,Female,non-anginal,Mild Hypertension,high,1,lv hypertrophy,High,0,Abnormal Low,upsloping,0
+48-55,Male,non-anginal,Mild Hypertension,Desirable,1,lv hypertrophy,High,0,Abnormal High,downsloping,0
+28-42,Female,atypical angina,normal,Desirable,0,NORMAL,High,0,Normal,upsloping,0
+60-70,Male,asymptomatic,normal,Desirable,0,NORMAL,Medium,0,Abnormal Low,upsloping,0
+42-48,Male,asymptomatic,normal,high,0,lv hypertrophy,High,0,Normal,upsloping,2
+42-48,Male,atypical angina,Mild Hypertension,Borderline high,0,lv hypertrophy,High,0,Normal,upsloping,0
+55-60,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,High,1,Abnormal High,upsloping,1
+48-55,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,Low,1,Abnormal High,flat,1
+48-55,Male,non-anginal,Mild Hypertension,Borderline high,0,NORMAL,High,0,Abnormal Low,flat,1
+28-42,Male,asymptomatic,normal,Desirable,0,lv hypertrophy,High,0,Normal,upsloping,1
+48-55,Male,non-anginal,Mild Hypertension,high,0,lv hypertrophy,High,0,Abnormal Low,downsloping,0
+48-55,Male,typical angina,Mild Hypertension,Borderline high,0,lv hypertrophy,Medium,1,Abnormal High,upsloping,0
+48-55,Female,asymptomatic,Mild Hypertension,high,0,NORMAL,High,1,Abnormal High,flat,2
+42-48,Female,non-anginal,Moderate or Severe Hypertension,Desirable,0,lv hypertrophy,High,1,Abnormal High,downsloping,0
+55-60,Male,asymptomatic,Mild Hypertension,Borderline high,0,lv hypertrophy,Medium,1,Abnormal High,flat,1
+48-55,Female,non-anginal,Mild Hypertension,high,1,NORMAL,High,0,Normal,upsloping,0
+48-55,Male,asymptomatic,normal,Desirable,0,NORMAL,Low,0,Abnormal High,flat,2
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,high,0,lv hypertrophy,High,1,Abnormal High,flat,2
+55-60,Male,non-anginal,Mild Hypertension,Desirable,0,lv hypertrophy,High,0,Abnormal High,flat,1
+48-55,Male,non-anginal,Moderate or Severe Hypertension,Borderline high,0,lv hypertrophy,High,0,Abnormal High,upsloping,0
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,high,0,lv hypertrophy,Medium,1,Abnormal High,downsloping,2
+42-48,Male,non-anginal,Moderate or Severe Hypertension,Borderline high,0,NORMAL,High,0,Abnormal High,flat,1
+60-70,Female,non-anginal,Moderate or Severe Hypertension,high,0,NORMAL,High,0,Abnormal Low,upsloping,0
+60-70,Male,asymptomatic,Mild Hypertension,high,1,NORMAL,High,0,Abnormal Low,flat,3
+60-70,Male,asymptomatic,normal,high,0,NORMAL,Very Low,1,Abnormal High,flat,1
+60-70,Male,asymptomatic,normal,high,0,lv hypertrophy,High,0,Abnormal Low,upsloping,1
+42-48,Male,asymptomatic,normal,Desirable,0,lv hypertrophy,High,0,Normal,upsloping,1
+60-70,Female,non-anginal,Moderate or Severe Hypertension,high,0,lv hypertrophy,High,0,Abnormal Low,upsloping,0
+55-60,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,1,Abnormal High,flat,1
+48-55,Female,non-anginal,Mild Hypertension,high,0,lv hypertrophy,High,0,Abnormal High,upsloping,0
+42-48,Male,atypical angina,Mild Hypertension,high,0,lv hypertrophy,High,0,Abnormal Low,flat,0
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,high,0,lv hypertrophy,Low,1,Abnormal Low,upsloping,3
+42-48,Male,asymptomatic,normal,Borderline high,0,lv hypertrophy,High,1,Abnormal High,flat,0
+48-55,Female,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,0,Abnormal Low,flat,0
+28-42,Male,non-anginal,Mild Hypertension,high,0,lv hypertrophy,High,0,Normal,upsloping,0
+60-70,Male,non-anginal,Moderate or Severe Hypertension,high,1,lv hypertrophy,High,1,Abnormal High,flat,3
+48-55,Male,atypical angina,normal,high,0,NORMAL,High,0,Abnormal Low,upsloping,0
+42-48,Male,non-anginal,Mild Hypertension,Borderline high,0,lv hypertrophy,High,0,Normal,upsloping,0
+42-48,Male,non-anginal,Mild Hypertension,high,0,lv hypertrophy,High,0,Normal,upsloping,0
+48-55,Female,non-anginal,Mild Hypertension,Borderline high,0,lv hypertrophy,Low,0,Normal,upsloping,0
+48-55,Female,asymptomatic,Mild Hypertension,Borderline high,0,lv hypertrophy,High,0,Normal,upsloping,0
+48-55,Female,non-anginal,Mild Hypertension,high,0,lv hypertrophy,High,0,Abnormal Low,upsloping,0
+60-70,Male,asymptomatic,normal,high,0,lv hypertrophy,High,0,Abnormal Low,flat,0
+60-70,Female,asymptomatic,Moderate or Severe Hypertension,Desirable,0,lv hypertrophy,High,0,Abnormal High,downsloping,3
+60-70,Male,non-anginal,Mild Hypertension,Borderline high,0,NORMAL,High,0,Abnormal High,flat,0
+42-48,Female,non-anginal,normal,Desirable,0,NORMAL,High,0,Abnormal Low,flat,0
+60-70,Female,non-anginal,Mild Hypertension,high,0,lv hypertrophy,High,0,Normal,upsloping,0
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,High,1,Normal,upsloping,1
+55-60,Male,asymptomatic,normal,Borderline high,0,lv hypertrophy,High,1,Abnormal High,flat,2
+55-60,Female,asymptomatic,Moderate or Severe Hypertension,high,0,lv hypertrophy,High,0,Abnormal High,flat,3
+48-55,Male,atypical angina,Mild Hypertension,Borderline high,0,NORMAL,High,0,Abnormal Low,upsloping,0
+42-48,Male,asymptomatic,Mild Hypertension,Borderline high,0,lv hypertrophy,High,0,Normal,upsloping,0
+42-48,Male,asymptomatic,normal,high,0,lv hypertrophy,High,0,Normal,upsloping,0
+28-42,Male,typical angina,normal,Desirable,0,lv hypertrophy,High,0,Normal,upsloping,0
+55-60,Female,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,0,Normal,upsloping,0
+60-70,Female,non-anginal,normal,high,1,lv hypertrophy,Medium,0,Normal,upsloping,0
+48-55,Male,non-anginal,normal,Desirable,0,NORMAL,Medium,0,Abnormal High,flat,3
+48-55,Male,atypical angina,normal,high,0,NORMAL,High,0,Normal,upsloping,0
+55-60,Male,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,High,1,Normal,upsloping,2
+55-60,Male,non-anginal,Mild Hypertension,Borderline high,0,lv hypertrophy,High,0,Abnormal Low,flat,1
+60-70,Male,asymptomatic,normal,high,0,NORMAL,Medium,1,Abnormal High,flat,2
+28-42,Male,asymptomatic,normal,Borderline high,0,NORMAL,Medium,0,Abnormal High,flat,3
+60-70,Female,asymptomatic,Moderate or Severe Hypertension,high,0,lv hypertrophy,High,1,Abnormal Low,flat,1
+55-60,Male,asymptomatic,Mild Hypertension,high,1,lv hypertrophy,High,1,Abnormal High,flat,1
+48-55,Male,typical angina,normal,Desirable,0,lv hypertrophy,High,0,Normal,flat,0
+42-48,Female,asymptomatic,Mild Hypertension,high,1,lv hypertrophy,Medium,1,Abnormal High,flat,2
+60-70,Female,non-anginal,Mild Hypertension,high,0,NORMAL,Very Low,0,Abnormal High,flat,2
+28-42,Male,atypical angina,Mild Hypertension,Borderline high,0,NORMAL,Medium,0,Normal,flat,0
+55-60,Male,non-anginal,Mild Hypertension,Borderline high,1,lv hypertrophy,High,0,Normal,upsloping,0
+28-42,Female,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,High,0,Abnormal High,upsloping,0
+60-70,Male,asymptomatic,Mild Hypertension,high,1,lv hypertrophy,Medium,1,Abnormal High,upsloping,3
+60-70,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,Medium,0,Abnormal High,flat,2
+42-48,Male,asymptomatic,Mild Hypertension,high,1,lv hypertrophy,High,1,Normal,upsloping,3
+60-70,Female,asymptomatic,Moderate or Severe Hypertension,high,0,lv hypertrophy,High,0,Abnormal High,flat,4
+48-55,Male,non-anginal,normal,Borderline high,0,NORMAL,High,1,Abnormal High,flat,0
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Low,1,Abnormal High,downsloping,3
+60-70,Male,typical angina,Mild Hypertension,high,1,lv hypertrophy,High,0,Abnormal High,flat,1
+42-48,Female,atypical angina,Mild Hypertension,Borderline high,0,lv hypertrophy,High,0,Abnormal Low,flat,0
+55-60,Female,asymptomatic,Moderate or Severe Hypertension,high,1,lv hypertrophy,Medium,1,Abnormal High,downsloping,3
+48-55,Male,asymptomatic,normal,Borderline high,0,NORMAL,Medium,1,Abnormal High,flat,3
+42-48,Male,atypical angina,normal,Borderline high,0,NORMAL,High,0,Normal,upsloping,0
+60-70,Female,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,High,0,Normal,upsloping,0
+48-55,Male,non-anginal,normal,high,0,lv hypertrophy,High,0,Abnormal Low,flat,0
+48-55,Male,non-anginal,normal,Borderline high,0,NORMAL,High,1,Normal,upsloping,0
+28-42,Male,atypical angina,Mild Hypertension,Borderline high,0,lv hypertrophy,High,0,Normal,upsloping,0
+48-55,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,1,Normal,upsloping,0
+42-48,Female,non-anginal,Mild Hypertension,Borderline high,0,NORMAL,High,0,Abnormal Low,flat,0
+48-55,Female,atypical angina,Mild Hypertension,high,0,lv hypertrophy,High,0,Abnormal High,flat,0
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,0,NORMAL,Medium,1,Abnormal High,downsloping,4
+60-70,Male,atypical angina,normal,high,0,lv hypertrophy,Low,0,Abnormal High,flat,3
+28-42,Male,asymptomatic,normal,Desirable,0,NORMAL,Medium,1,Abnormal High,flat,1
+48-55,Male,non-anginal,Mild Hypertension,high,1,lv hypertrophy,High,0,Abnormal High,flat,0
+55-60,Male,atypical angina,Mild Hypertension,Borderline high,0,NORMAL,High,1,Normal,upsloping,0
+55-60,Male,typical angina,Moderate or Severe Hypertension,high,0,lv hypertrophy,High,0,Abnormal Low,flat,1
+48-55,Male,atypical angina,Mild Hypertension,Borderline high,1,NORMAL,High,0,Normal,upsloping,0
+60-70,Male,non-anginal,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal High,flat,1
+55-60,Male,non-anginal,normal,Borderline high,0,lv hypertrophy,High,1,Abnormal Low,flat,0
+42-48,Male,non-anginal,normal,high,0,NORMAL,High,0,Normal,upsloping,1
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,high,1,lv hypertrophy,Medium,0,Abnormal Low,flat,4
+28-42,Male,non-anginal,normal,high,0,NORMAL,High,0,Normal,upsloping,0
+42-48,Male,atypical angina,Mild Hypertension,high,0,lv hypertrophy,High,0,Normal,upsloping,0
+55-60,Female,non-anginal,normal,high,0,NORMAL,High,0,Normal,upsloping,0
+48-55,Male,typical angina,Moderate or Severe Hypertension,high,1,NORMAL,High,0,Abnormal High,flat,0
+28-42,Female,asymptomatic,normal,high,0,lv hypertrophy,Medium,0,Abnormal Low,flat,0
+60-70,Female,non-anginal,normal,high,0,lv hypertrophy,High,0,Abnormal High,flat,0
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,high,0,lv hypertrophy,High,1,Abnormal Low,flat,4
+60-70,Male,asymptomatic,normal,high,0,lv hypertrophy,Very Low,1,Abnormal High,downsloping,3
+60-70,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,Low,0,Abnormal High,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,High,1,Abnormal High,upsloping,1
+55-60,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,0,Normal,upsloping,1
+55-60,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,0,Abnormal High,flat,2
+60-70,Male,non-anginal,normal,high,0,NORMAL,High,0,Abnormal Low,upsloping,0
+42-48,Male,atypical angina,normal,Desirable,1,NORMAL,High,0,Normal,upsloping,0
+60-70,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,1,Normal,upsloping,4
+48-55,Female,non-anginal,normal,Borderline high,0,NORMAL,High,0,Abnormal High,flat,0
+55-60,Female,asymptomatic,normal,high,0,lv hypertrophy,Medium,0,Abnormal Low,flat,0
+42-48,Male,non-anginal,Mild Hypertension,high,1,NORMAL,High,0,Normal,upsloping,0
+55-60,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,High,1,Normal,upsloping,0
+48-55,Male,non-anginal,Mild Hypertension,Borderline high,0,NORMAL,High,0,Normal,upsloping,0
+48-55,Female,atypical angina,Mild Hypertension,high,1,lv hypertrophy,High,1,Normal,upsloping,0
+28-42,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,1,Normal,upsloping,1
+42-48,Female,atypical angina,normal,Desirable,0,NORMAL,Medium,0,Normal,flat,0
+60-70,Male,non-anginal,Moderate or Severe Hypertension,high,0,NORMAL,Low,1,Abnormal High,flat,3
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,lv hypertrophy,Low,1,Normal,upsloping,0
+55-60,Female,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,High,1,Normal,flat,1
+60-70,Female,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,0,Abnormal High,flat,0
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,lv hypertrophy,Medium,0,Abnormal High,flat,4
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Very Low,1,Abnormal High,flat,1
+48-55,Male,asymptomatic,normal,Borderline high,1,NORMAL,High,0,Abnormal Low,upsloping,0
+55-60,Male,asymptomatic,Mild Hypertension,Desirable,0,lv hypertrophy,Low,1,Abnormal High,flat,1
+42-48,Male,non-anginal,Mild Hypertension,high,0,NORMAL,High,0,Abnormal High,upsloping,0
+48-55,Male,non-anginal,Mild Hypertension,high,1,lv hypertrophy,High,0,Normal,upsloping,0
+42-48,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,0,Abnormal Low,flat,3
+55-60,Female,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,1,Abnormal High,flat,2
+28-42,Male,typical angina,Moderate or Severe Hypertension,high,0,lv hypertrophy,High,0,Abnormal Low,upsloping,0
+55-60,Male,typical angina,Moderate or Severe Hypertension,high,0,lv hypertrophy,High,0,Abnormal High,downsloping,0
+55-60,Female,asymptomatic,Moderate or Severe Hypertension,high,0,lv hypertrophy,High,0,Normal,upsloping,1
+60-70,Female,atypical angina,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,upsloping,0
+28-42,Male,non-anginal,normal,Borderline high,1,NORMAL,High,0,Abnormal Low,downsloping,0
+60-70,Male,atypical angina,Moderate or Severe Hypertension,high,0,NORMAL,Low,1,Normal,flat,2
+48-55,Male,atypical angina,Moderate or Severe Hypertension,high,0,lv hypertrophy,High,0,Normal,upsloping,1
+60-70,Male,non-anginal,Mild Hypertension,high,0,lv hypertrophy,High,0,Abnormal High,flat,2
+48-55,Male,non-anginal,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,upsloping,0
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal High,flat,3
+42-48,Male,asymptomatic,Mild Hypertension,high,1,lv hypertrophy,High,1,Abnormal Low,flat,1
+60-70,Female,asymptomatic,Mild Hypertension,high,1,NORMAL,Low,0,Abnormal High,flat,2
+60-70,Female,non-anginal,normal,Borderline high,0,lv hypertrophy,Low,0,Abnormal High,flat,0
+60-70,Male,asymptomatic,normal,high,0,lv hypertrophy,Medium,1,Abnormal Low,flat,3
+60-70,Male,typical angina,Moderate or Severe Hypertension,Borderline high,1,lv hypertrophy,Medium,0,Abnormal Low,flat,0
+42-48,Female,asymptomatic,Mild Hypertension,Borderline high,0,lv hypertrophy,High,1,Abnormal Low,flat,0
+48-55,Female,atypical angina,normal,high,0,NORMAL,High,0,Abnormal High,upsloping,0
+55-60,Male,typical angina,Moderate or Severe Hypertension,high,0,lv hypertrophy,Medium,0,Normal,upsloping,1
+48-55,Female,asymptomatic,normal,high,0,lv hypertrophy,High,0,Normal,upsloping,0
+60-70,Female,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,High,1,Normal,upsloping,0
+55-60,Male,non-anginal,Moderate or Severe Hypertension,Desirable,1,NORMAL,High,0,Abnormal Low,upsloping,0
+60-70,Female,non-anginal,Mild Hypertension,high,0,NORMAL,Medium,0,Abnormal Low,upsloping,0
+42-48,Male,asymptomatic,normal,Borderline high,0,NORMAL,High,0,Normal,upsloping,0
+42-48,Male,asymptomatic,Moderate or Severe Hypertension,high,0,lv hypertrophy,High,1,Normal,flat,3
+55-60,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,Medium,1,Abnormal High,flat,3
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,0,lv hypertrophy,Medium,1,Abnormal Low,flat,3
+48-55,Male,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Normal,upsloping,0
+60-70,Female,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,High,1,Abnormal High,flat,1
+28-42,Female,non-anginal,normal,Borderline high,0,NORMAL,High,0,Normal,upsloping,0
+28-42,Male,typical angina,normal,Borderline high,0,NORMAL,High,1,Abnormal High,flat,4
+28-42,Male,non-anginal,Mild Hypertension,Borderline high,0,lv hypertrophy,High,0,Abnormal High,flat,0
+60-70,Female,asymptomatic,Moderate or Severe Hypertension,Borderline high,1,NORMAL,High,1,Abnormal Low,flat,3
+48-55,Male,asymptomatic,normal,Borderline high,0,NORMAL,High,0,Normal,upsloping,1
+55-60,Male,typical angina,normal,Desirable,0,lv hypertrophy,High,0,Abnormal High,flat,0
+42-48,Female,atypical angina,normal,Borderline high,0,NORMAL,High,0,Normal,upsloping,0
+42-48,Female,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,1,Normal,flat,0
+60-70,Female,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,0,Abnormal High,flat,0
+55-60,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,0,Normal,upsloping,0
+28-42,Female,non-anginal,normal,high,0,lv hypertrophy,High,1,Normal,upsloping,0
+48-55,Female,non-anginal,normal,high,0,lv hypertrophy,High,0,Normal,upsloping,0
+28-42,Female,non-anginal,normal,Desirable,0,NORMAL,High,0,Normal,upsloping,0
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Very Low,1,Abnormal High,flat,3
+60-70,Female,asymptomatic,normal,high,0,NORMAL,High,1,Abnormal High,flat,1
+28-42,Female,atypical angina,normal,Borderline high,0,NORMAL,High,0,Abnormal Low,upsloping,0
+42-48,Male,asymptomatic,normal,Borderline high,0,NORMAL,High,0,Abnormal Low,upsloping,0
+60-70,Female,non-anginal,Moderate or Severe Hypertension,high,0,NORMAL,High,0,Normal,upsloping,0
+48-55,Male,asymptomatic,normal,Borderline high,0,lv hypertrophy,Low,1,Normal,flat,3
+60-70,Male,asymptomatic,normal,Borderline high,0,lv hypertrophy,Medium,1,Abnormal Low,upsloping,2
+48-55,Female,non-anginal,Mild Hypertension,Desirable,0,lv hypertrophy,High,0,Abnormal Low,flat,0
+48-55,Female,asymptomatic,Moderate or Severe Hypertension,high,0,st-t abnormality,Low,1,Abnormal High,flat,2
+48-55,Male,non-anginal,normal,Desirable,0,lv hypertrophy,Medium,0,Abnormal Low,upsloping,1
+60-70,Female,atypical angina,normal,high,0,lv hypertrophy,Medium,1,Abnormal Low,upsloping,0
+48-55,Female,non-anginal,Moderate or Severe Hypertension,Borderline high,0,NORMAL,High,0,Normal,upsloping,0
+48-55,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,Low,1,Abnormal High,flat,3
+55-60,Male,asymptomatic,Mild Hypertension,high,1,lv hypertrophy,Low,1,Abnormal High,downsloping,2
+42-48,Male,asymptomatic,normal,high,0,lv hypertrophy,High,0,Abnormal Low,upsloping,1
+48-55,Female,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Normal,flat,0
+28-42,Male,atypical angina,normal,high,0,NORMAL,High,0,Normal,upsloping,0
+28-42,Male,atypical angina,normal,Borderline high,0,NORMAL,High,0,Normal,upsloping,0
+28-42,Female,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Normal,upsloping,0
+48-55,Female,asymptomatic,Mild Hypertension,high,0,NORMAL,High,0,Normal,upsloping,0
+60-70,Male,typical angina,Mild Hypertension,Borderline high,0,NORMAL,High,0,Abnormal High,flat,2
+55-60,Female,non-anginal,normal,Desirable,1,NORMAL,Very Low,0,Normal,upsloping,0
+60-70,Male,asymptomatic,normal,Borderline high,0,NORMAL,Very Low,0,Abnormal Low,flat,2
+55-60,Male,asymptomatic,normal,Borderline high,0,NORMAL,High,0,Abnormal Low,upsloping,2
+42-48,Male,asymptomatic,normal,high,0,lv hypertrophy,Low,1,Abnormal Low,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,High,0,Abnormal Low,upsloping,3
+60-70,Male,atypical angina,Mild Hypertension,Borderline high,1,lv hypertrophy,Medium,0,Normal,upsloping,0
+55-60,Male,asymptomatic,normal,Borderline high,0,NORMAL,Medium,1,Abnormal High,flat,0
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,NORMAL,Low,0,Abnormal High,flat,1
+60-70,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Low,1,Abnormal Low,flat,0
+48-55,Female,non-anginal,normal,high,0,lv hypertrophy,High,0,Abnormal Low,upsloping,0
+42-48,Male,asymptomatic,normal,high,0,NORMAL,High,0,Abnormal High,flat,0
+28-42,Female,non-anginal,normal,Borderline high,0,NORMAL,High,0,Normal,flat,0
+60-70,Female,asymptomatic,normal,Borderline high,0,NORMAL,High,0,Abnormal Low,upsloping,0
+60-70,Female,non-anginal,Mild Hypertension,Desirable,0,st-t abnormality,Low,0,Abnormal High,flat,0
+60-70,Male,atypical angina,Moderate or Severe Hypertension,high,0,lv hypertrophy,High,0,Normal,upsloping,0
+55-60,Male,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Abnormal Low,upsloping,1
+42-48,Female,non-anginal,normal,high,0,NORMAL,High,0,Abnormal Low,flat,0
+55-60,Female,atypical angina,Mild Hypertension,high,1,lv hypertrophy,High,0,Normal,upsloping,3
+55-60,Female,typical angina,Moderate or Severe Hypertension,Borderline high,0,NORMAL,High,0,Abnormal Low,upsloping,0
+42-48,Male,non-anginal,normal,Borderline high,0,NORMAL,High,0,Normal,upsloping,0
+60-70,Male,asymptomatic,Mild Hypertension,Desirable,0,lv hypertrophy,Medium,1,Abnormal High,flat,4
+28-42,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal High,flat,2
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,1,NORMAL,High,1,Abnormal Low,flat,2
+55-60,Male,non-anginal,Mild Hypertension,Borderline high,1,NORMAL,Medium,0,Abnormal High,flat,2
+28-42,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,NORMAL,High,0,Normal,upsloping,1
+28-42,Male,non-anginal,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,upsloping,0
+60-70,Male,asymptomatic,Mild Hypertension,Borderline high,0,lv hypertrophy,Medium,1,Abnormal High,upsloping,1
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,lv hypertrophy,Medium,0,Abnormal High,upsloping,0
+42-48,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Low,1,Abnormal High,flat,2
+60-70,Female,asymptomatic,normal,Desirable,0,NORMAL,Medium,0,Abnormal High,flat,0
+55-60,Male,typical angina,Mild Hypertension,Borderline high,0,NORMAL,High,0,Abnormal Low,upsloping,1
+60-70,Male,typical angina,Moderate or Severe Hypertension,Borderline high,0,lv hypertrophy,High,0,Abnormal Low,flat,0
+60-70,Female,non-anginal,Moderate or Severe Hypertension,high,0,lv hypertrophy,High,0,Normal,flat,0
+28-42,Female,non-anginal,Mild Hypertension,Borderline high,0,NORMAL,High,0,Normal,flat,0
+55-60,Male,atypical angina,Moderate or Severe Hypertension,Borderline high,0,lv hypertrophy,High,0,Normal,upsloping,1
+55-60,Female,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,Medium,0,Abnormal Low,flat,0
+55-60,Male,asymptomatic,normal,high,0,NORMAL,High,1,Abnormal High,flat,2
+42-48,Male,non-anginal,Mild Hypertension,high,0,NORMAL,High,0,Normal,upsloping,0
+48-55,Female,asymptomatic,Mild Hypertension,Borderline high,0,st-t abnormality,Medium,1,Abnormal High,flat,3
+28-42,Male,atypical angina,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,upsloping,0
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,NORMAL,High,0,Normal,upsloping,2
+55-60,Male,asymptomatic,normal,high,0,st-t abnormality,Medium,0,Abnormal High,downsloping,4
+55-60,Female,asymptomatic,Moderate or Severe Hypertension,Borderline high,1,lv hypertrophy,High,1,Abnormal High,flat,2
+55-60,Male,atypical angina,Mild Hypertension,Borderline high,0,NORMAL,High,0,Abnormal Low,flat,0
+55-60,Male,atypical angina,Mild Hypertension,Borderline high,0,lv hypertrophy,High,0,Normal,upsloping,0
+55-60,Male,atypical angina,normal,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+60-70,Male,non-anginal,Moderate or Severe Hypertension,Borderline high,0,lv hypertrophy,High,0,Abnormal Low,flat,1
+48-55,Female,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Abnormal High,upsloping,0
+42-48,Male,asymptomatic,normal,Desirable,0,NORMAL,High,1,Abnormal High,downsloping,2
+60-70,Male,asymptomatic,Mild Hypertension,Desirable,0,lv hypertrophy,High,1,Abnormal High,upsloping,2
+60-70,Female,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,Medium,1,Normal,flat,1
+28-42,Male,atypical angina,normal,Desirable,0,NORMAL,High,0,Normal,upsloping,0
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,1,lv hypertrophy,Very Low,0,Abnormal Low,flat,3
+55-60,Female,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal Low,flat,1
+42-48,Male,typical angina,normal,high,0,NORMAL,Medium,0,Abnormal High,flat,1
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,1,NORMAL,High,0,Abnormal High,flat,2
+55-60,Male,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,Low,1,Abnormal High,flat,3
+55-60,Female,atypical angina,Mild Hypertension,Borderline high,0,lv hypertrophy,High,0,Normal,flat,1
+28-42,Male,non-anginal,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,upsloping,0
+,Male,atypical angina,Mild Hypertension,Desirable,0,lv hypertrophy,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,normal,high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Female,typical angina,Moderate or Severe Hypertension,Borderline high,0,st-t abnormality,High,0,Normal,downsloping,0
+28-42,Female,atypical angina,normal,Borderline high,0,st-t abnormality,High,0,Normal,downsloping,0
+28-42,Female,atypical angina,normal,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,normal,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,non-anginal,normal,high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Female,atypical angina,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,Moderate or Severe Hypertension,Borderline high,0,st-t abnormality,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,normal,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Female,typical angina,normal,Desirable,0,st-t abnormality,High,0,Normal,downsloping,0
+28-42,Female,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,normal,high,0,lv hypertrophy,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,Moderate or Severe Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,normal,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,non-anginal,normal,high,0,NORMAL,High,0,Abnormal Low,downsloping,0
+28-42,Male,non-anginal,Mild Hypertension,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,non-anginal,Moderate or Severe Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Female,atypical angina,normal,high,0,NORMAL,Medium,0,Normal,downsloping,0
+28-42,Female,non-anginal,Mild Hypertension,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Female,asymptomatic,Mild Hypertension,Desirable,0,st-t abnormality,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,Mild Hypertension,high,0,st-t abnormality,Very Low,0,Normal,downsloping,0
+28-42,Male,non-anginal,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,asymptomatic,normal,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Female,atypical angina,normal,high,0,NORMAL,Medium,0,Normal,downsloping,0
+28-42,Male,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,non-anginal,Moderate or Severe Hypertension,high,0,NORMAL,Medium,0,Normal,downsloping,0
+28-42,Female,non-anginal,normal,Desirable,0,st-t abnormality,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,normal,Desirable,0,st-t abnormality,High,0,Abnormal High,downsloping,0
+28-42,Male,atypical angina,normal,Desirable,0,NORMAL,High,1,Abnormal Low,downsloping,0
+28-42,Male,atypical angina,normal,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,Mild Hypertension,Desirable,0,NORMAL,Low,0,Normal,downsloping,0
+28-42,Male,atypical angina,Moderate or Severe Hypertension,high,0,NORMAL,Low,0,Normal,downsloping,0
+28-42,Male,non-anginal,normal,high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,non-anginal,Moderate or Severe Hypertension,Desirable,1,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,asymptomatic,normal,high,0,NORMAL,Medium,0,Normal,downsloping,0
+28-42,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,0,Normal,downsloping,0
+28-42,Male,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,non-anginal,Mild Hypertension,Borderline high,0,NORMAL,Medium,0,Normal,downsloping,0
+28-42,Male,non-anginal,Mild Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,non-anginal,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Female,atypical angina,normal,high,0,st-t abnormality,High,0,Normal,downsloping,0
+28-42,Female,atypical angina,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Female,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,normal,high,0,st-t abnormality,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,normal,high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,asymptomatic,normal,high,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Female,non-anginal,normal,Borderline high,0,st-t abnormality,Medium,0,Normal,downsloping,0
+28-42,Male,atypical angina,normal,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,normal,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,atypical angina,Moderate or Severe Hypertension,high,0,NORMAL,Medium,0,Normal,downsloping,0
+28-42,Male,non-anginal,normal,Borderline high,0,NORMAL,High,1,Abnormal High,downsloping,0
+28-42,Male,non-anginal,Moderate or Severe Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+28-42,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+42-48,Female,typical angina,normal,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+42-48,Female,atypical angina,normal,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+42-48,Female,atypical angina,normal,Borderline high,0,st-t abnormality,High,0,Normal,downsloping,0
+42-48,Female,atypical angina,normal,high,0,st-t abnormality,High,0,Normal,downsloping,0
+42-48,Female,atypical angina,normal,high,0,NORMAL,Low,0,Normal,downsloping,0
+42-48,Female,atypical angina,Moderate or Severe Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+42-48,Female,non-anginal,Moderate or Severe Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+42-48,Male,atypical angina,Moderate or Severe Hypertension,Borderline high,0,NORMAL,Medium,0,Normal,downsloping,0
+42-48,Female,asymptomatic,normal,Borderline high,0,st-t abnormality,Low,0,Normal,downsloping,0
+42-48,Male,atypical angina,normal,Desirable,0,NORMAL,High,0,Abnormal Low,downsloping,0
+42-48,Male,atypical angina,Mild Hypertension,Borderline high,0,NORMAL,Medium,0,Normal,downsloping,0
+42-48,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+42-48,Female,atypical angina,Mild Hypertension,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+42-48,Female,atypical angina,Moderate or Severe Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+42-48,Female,asymptomatic,Mild Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+42-48,Male,atypical angina,Mild Hypertension,Borderline high,1,NORMAL,Medium,0,Normal,downsloping,0
+42-48,Male,non-anginal,Mild Hypertension,Desirable,0,NORMAL,Low,0,Normal,downsloping,0
+42-48,Male,asymptomatic,normal,Borderline high,0,NORMAL,Medium,0,Normal,downsloping,0
+42-48,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+42-48,Female,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Very Low,0,Normal,downsloping,0
+42-48,Male,atypical angina,Mild Hypertension,high,0,NORMAL,High,1,Normal,downsloping,0
+42-48,Male,non-anginal,normal,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+42-48,Male,non-anginal,Moderate or Severe Hypertension,Desirable,1,NORMAL,Low,0,Normal,downsloping,0
+42-48,Male,asymptomatic,normal,Borderline high,0,st-t abnormality,Medium,1,Abnormal Low,downsloping,0
+42-48,Male,asymptomatic,normal,Borderline high,0,st-t abnormality,Medium,0,Normal,downsloping,0
+42-48,Male,asymptomatic,Moderate or Severe Hypertension,high,0,st-t abnormality,Low,0,Normal,downsloping,0
+42-48,Female,atypical angina,Mild Hypertension,high,0,NORMAL,Medium,0,Abnormal Low,downsloping,0
+42-48,Female,non-anginal,Mild Hypertension,Desirable,0,NORMAL,High,0,Abnormal High,downsloping,0
+42-48,Male,typical angina,normal,high,0,NORMAL,High,0,Normal,downsloping,0
+42-48,Male,atypical angina,Moderate or Severe Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+42-48,Male,asymptomatic,Mild Hypertension,high,1,NORMAL,Medium,1,Normal,downsloping,0
+42-48,Female,atypical angina,normal,high,0,st-t abnormality,Medium,0,Abnormal High,downsloping,0
+42-48,Female,atypical angina,normal,Desirable,1,st-t abnormality,High,0,Normal,downsloping,0
+42-48,Female,atypical angina,normal,high,0,NORMAL,Low,0,Normal,downsloping,0
+42-48,Female,non-anginal,normal,Desirable,0,NORMAL,Medium,0,Normal,downsloping,0
+42-48,Female,asymptomatic,normal,Desirable,0,NORMAL,High,0,Abnormal High,downsloping,0
+42-48,Female,asymptomatic,normal,high,0,st-t abnormality,Low,0,Normal,downsloping,0
+42-48,Female,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,NORMAL,Medium,1,Abnormal Low,downsloping,0
+42-48,Male,atypical angina,normal,Desirable,0,NORMAL,Very Low,0,Normal,downsloping,0
+42-48,Male,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+42-48,Male,atypical angina,Mild Hypertension,Borderline high,0,NORMAL,Low,0,Normal,downsloping,0
+42-48,Male,non-anginal,normal,Borderline high,0,NORMAL,Medium,0,Normal,downsloping,0
+48-55,Female,atypical angina,normal,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Female,atypical angina,normal,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Female,atypical angina,Mild Hypertension,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Female,non-anginal,Mild Hypertension,Borderline high,0,st-t abnormality,Medium,0,Normal,downsloping,0
+48-55,Male,atypical angina,normal,high,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Male,non-anginal,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Male,asymptomatic,normal,high,1,NORMAL,Medium,0,Abnormal Low,downsloping,0
+48-55,Male,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,Medium,0,Normal,downsloping,0
+48-55,Female,atypical angina,normal,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Female,asymptomatic,normal,high,0,NORMAL,Low,1,Abnormal Low,downsloping,0
+48-55,Male,atypical angina,normal,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Male,atypical angina,Mild Hypertension,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Male,atypical angina,Moderate or Severe Hypertension,Borderline high,0,st-t abnormality,Low,0,Normal,downsloping,0
+48-55,Male,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,Medium,0,Normal,downsloping,0
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,NORMAL,Medium,1,Normal,downsloping,0
+48-55,Female,atypical angina,Moderate or Severe Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Female,non-anginal,normal,Desirable,0,NORMAL,Low,0,Normal,downsloping,0
+48-55,Female,non-anginal,Mild Hypertension,Borderline high,0,NORMAL,High,1,Abnormal High,downsloping,0
+48-55,Female,non-anginal,Moderate or Severe Hypertension,Desirable,0,NORMAL,Low,0,Abnormal Low,downsloping,0
+48-55,Male,atypical angina,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Male,atypical angina,Mild Hypertension,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Male,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,Very Low,0,Normal,downsloping,0
+48-55,Female,atypical angina,normal,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Female,atypical angina,Mild Hypertension,Desirable,0,NORMAL,Medium,0,Normal,downsloping,0
+48-55,Female,non-anginal,Mild Hypertension,high,0,NORMAL,Medium,0,Normal,downsloping,0
+48-55,Female,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,Medium,1,Abnormal High,downsloping,0
+48-55,Male,atypical angina,normal,high,0,NORMAL,Low,0,Normal,downsloping,0
+48-55,Male,atypical angina,Mild Hypertension,Desirable,0,NORMAL,Medium,1,Normal,downsloping,0
+48-55,Male,atypical angina,Moderate or Severe Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Male,non-anginal,Mild Hypertension,high,0,st-t abnormality,High,0,Normal,downsloping,0
+48-55,Female,atypical angina,normal,high,1,NORMAL,Medium,0,Normal,downsloping,0
+48-55,Female,atypical angina,Mild Hypertension,Borderline high,0,NORMAL,High,1,Abnormal High,downsloping,0
+48-55,Female,non-anginal,normal,high,0,NORMAL,Medium,0,Normal,downsloping,0
+48-55,Male,atypical angina,normal,Desirable,0,NORMAL,Medium,0,Normal,downsloping,0
+48-55,Male,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Male,non-anginal,normal,Desirable,0,NORMAL,Medium,0,Normal,downsloping,0
+48-55,Male,asymptomatic,Mild Hypertension,high,0,st-t abnormality,Low,1,Abnormal High,downsloping,0
+48-55,Male,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Female,atypical angina,normal,Borderline high,0,NORMAL,Medium,0,Abnormal Low,downsloping,0
+48-55,Female,atypical angina,normal,Borderline high,1,NORMAL,Medium,0,Normal,downsloping,0
+48-55,Female,atypical angina,normal,high,0,NORMAL,High,0,Abnormal High,downsloping,0
+48-55,Female,atypical angina,Mild Hypertension,high,0,st-t abnormality,High,0,Normal,downsloping,0
+48-55,Female,atypical angina,Mild Hypertension,high,1,st-t abnormality,Medium,0,Normal,downsloping,0
+48-55,Female,atypical angina,Moderate or Severe Hypertension,Borderline high,0,NORMAL,Medium,0,Normal,downsloping,0
+48-55,Female,atypical angina,Moderate or Severe Hypertension,high,0,NORMAL,Medium,0,Normal,downsloping,0
+48-55,Male,typical angina,normal,Desirable,0,NORMAL,Medium,0,Abnormal High,downsloping,0
+48-55,Male,atypical angina,normal,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Male,atypical angina,normal,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Male,atypical angina,normal,high,0,NORMAL,Low,0,Normal,downsloping,0
+48-55,Male,atypical angina,Moderate or Severe Hypertension,Desirable,0,st-t abnormality,Medium,0,Abnormal Low,downsloping,0
+48-55,Male,atypical angina,Moderate or Severe Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Male,non-anginal,normal,Borderline high,0,NORMAL,Medium,0,Normal,downsloping,0
+48-55,Male,non-anginal,Moderate or Severe Hypertension,Desirable,0,NORMAL,Medium,0,Normal,downsloping,0
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,high,0,st-t abnormality,Medium,0,Abnormal Low,downsloping,0
+48-55,Female,atypical angina,normal,high,0,st-t abnormality,High,0,Normal,downsloping,0
+48-55,Female,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Female,atypical angina,Mild Hypertension,high,0,lv hypertrophy,High,0,Normal,downsloping,0
+48-55,Male,atypical angina,normal,high,1,NORMAL,Medium,0,Normal,downsloping,0
+48-55,Male,atypical angina,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Male,atypical angina,Moderate or Severe Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Male,non-anginal,normal,high,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Male,non-anginal,normal,Borderline high,0,lv hypertrophy,Medium,0,Normal,downsloping,0
+48-55,Male,asymptomatic,normal,high,0,NORMAL,Medium,0,Normal,downsloping,0
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Low,1,Abnormal Low,downsloping,0
+55-60,Female,non-anginal,Mild Hypertension,Borderline high,0,st-t abnormality,High,0,Normal,downsloping,0
+55-60,Male,atypical angina,Mild Hypertension,Desirable,0,NORMAL,Very Low,0,Normal,downsloping,0
+55-60,Male,non-anginal,Mild Hypertension,Desirable,0,NORMAL,Low,0,Normal,downsloping,0
+55-60,Male,non-anginal,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal Low,downsloping,0
+55-60,Male,asymptomatic,normal,Desirable,0,NORMAL,Medium,0,Normal,downsloping,0
+55-60,Female,typical angina,Mild Hypertension,high,0,NORMAL,Very Low,0,Abnormal Low,downsloping,0
+55-60,Female,asymptomatic,Moderate or Severe Hypertension,high,0,st-t abnormality,Medium,1,Abnormal Low,downsloping,0
+55-60,Male,atypical angina,Mild Hypertension,high,1,NORMAL,Medium,0,Normal,downsloping,0
+55-60,Male,atypical angina,Mild Hypertension,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+55-60,Male,atypical angina,Mild Hypertension,high,0,NORMAL,Low,0,Normal,downsloping,0
+55-60,Male,non-anginal,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,downsloping,0
+55-60,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Very Low,0,Normal,downsloping,0
+55-60,Female,atypical angina,Mild Hypertension,Desirable,0,NORMAL,Medium,0,Abnormal Low,downsloping,0
+55-60,Male,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Normal,downsloping,0
+55-60,Male,non-anginal,Mild Hypertension,high,0,NORMAL,Low,1,Abnormal Low,downsloping,0
+55-60,Male,non-anginal,Moderate or Severe Hypertension,Borderline high,0,NORMAL,Very Low,0,Normal,downsloping,0
+55-60,Male,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,Medium,0,Normal,downsloping,0
+55-60,Male,non-anginal,normal,high,0,lv hypertrophy,Medium,0,Normal,downsloping,0
+60-70,Female,asymptomatic,Mild Hypertension,high,0,st-t abnormality,Low,1,Abnormal Low,downsloping,0
+60-70,Male,asymptomatic,Mild Hypertension,high,0,st-t abnormality,Low,1,Normal,downsloping,0
+60-70,Female,typical angina,Moderate or Severe Hypertension,Desirable,0,NORMAL,Low,0,Normal,downsloping,0
+60-70,Male,atypical angina,Mild Hypertension,high,0,NORMAL,High,0,Abnormal Low,upsloping,0
+28-42,Male,asymptomatic,normal,high,0,NORMAL,High,1,Abnormal High,flat,1
+28-42,Female,asymptomatic,normal,high,0,NORMAL,High,1,Abnormal Low,flat,1
+28-42,Male,typical angina,Mild Hypertension,Desirable,0,NORMAL,High,0,Normal,flat,1
+28-42,Male,atypical angina,normal,high,0,NORMAL,Medium,0,Normal,flat,1
+28-42,Male,atypical angina,normal,high,0,NORMAL,High,0,Abnormal High,flat,1
+28-42,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Medium,1,Abnormal High,flat,1
+28-42,Male,asymptomatic,normal,Desirable,0,NORMAL,High,0,Normal,flat,1
+28-42,Male,asymptomatic,normal,high,0,NORMAL,High,0,Normal,flat,1
+28-42,Male,asymptomatic,normal,Desirable,0,NORMAL,Medium,1,Abnormal High,flat,1
+28-42,Male,asymptomatic,normal,high,1,NORMAL,High,1,Abnormal Low,flat,1
+28-42,Male,asymptomatic,normal,high,0,NORMAL,High,0,Normal,flat,1
+28-42,Male,asymptomatic,normal,Borderline high,1,NORMAL,Medium,1,Abnormal Low,flat,1
+42-48,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Medium,1,Abnormal High,flat,1
+42-48,Male,asymptomatic,normal,Borderline high,0,NORMAL,High,1,Normal,flat,1
+42-48,Male,asymptomatic,normal,Desirable,0,NORMAL,Medium,0,Normal,flat,1
+42-48,Male,asymptomatic,normal,high,0,NORMAL,Medium,1,Abnormal Low,flat,1
+42-48,Male,non-anginal,Mild Hypertension,Desirable,0,NORMAL,High,1,Abnormal Low,flat,1
+42-48,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,NORMAL,Very Low,1,Abnormal High,flat,1
+42-48,Male,asymptomatic,normal,high,1,NORMAL,Low,0,Normal,flat,1
+42-48,Male,asymptomatic,normal,high,0,NORMAL,Low,0,Abnormal High,flat,1
+42-48,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Low,1,Abnormal Low,flat,1
+48-55,Female,non-anginal,Moderate or Severe Hypertension,Desirable,0,NORMAL,High,0,Abnormal Low,flat,1
+48-55,Male,non-anginal,normal,high,0,NORMAL,High,0,Normal,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,High,0,Normal,flat,1
+48-55,Female,non-anginal,Mild Hypertension,high,0,NORMAL,Medium,1,Normal,flat,1
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,High,0,Normal,flat,1
+48-55,Female,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,High,1,Abnormal Low,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Low,1,Abnormal High,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Medium,0,Normal,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Medium,0,Abnormal High,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Medium,1,Abnormal High,flat,1
+55-60,Male,atypical angina,Mild Hypertension,high,0,st-t abnormality,High,1,Abnormal Low,flat,1
+55-60,Male,non-anginal,Mild Hypertension,Borderline high,0,st-t abnormality,Medium,0,Normal,flat,1
+55-60,Female,asymptomatic,Mild Hypertension,high,1,st-t abnormality,Medium,1,Abnormal High,flat,1
+55-60,Male,asymptomatic,normal,high,0,NORMAL,Medium,0,Abnormal Low,flat,1
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,NORMAL,Low,0,Normal,flat,1
+60-70,Male,asymptomatic,Mild Hypertension,high,1,NORMAL,Very Low,1,Abnormal High,flat,1
+28-42,Male,asymptomatic,normal,high,0,NORMAL,Medium,0,Normal,flat,1
+28-42,Male,asymptomatic,normal,Desirable,0,NORMAL,High,1,Abnormal Low,flat,1
+28-42,Male,asymptomatic,normal,high,0,NORMAL,High,0,Normal,flat,1
+28-42,Female,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Medium,0,Abnormal High,flat,1
+42-48,Male,typical angina,normal,high,0,st-t abnormality,High,0,Normal,flat,1
+42-48,Male,asymptomatic,Mild Hypertension,Borderline high,0,st-t abnormality,Medium,1,Abnormal Low,flat,1
+42-48,Male,asymptomatic,normal,Borderline high,0,NORMAL,Low,1,Normal,flat,1
+42-48,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Low,0,Normal,flat,1
+42-48,Male,asymptomatic,Mild Hypertension,high,1,st-t abnormality,High,1,Abnormal High,flat,1
+42-48,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,0,NORMAL,Low,1,Abnormal High,flat,1
+42-48,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Very Low,1,Abnormal High,flat,1
+42-48,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Very Low,1,Abnormal High,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Medium,1,Abnormal High,flat,1
+48-55,Male,asymptomatic,normal,Desirable,0,NORMAL,High,0,Normal,flat,1
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,0,NORMAL,Medium,1,Abnormal High,flat,1
+48-55,Male,asymptomatic,normal,high,0,NORMAL,Low,1,Normal,flat,1
+48-55,Male,non-anginal,normal,Borderline high,0,NORMAL,High,1,Abnormal High,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Very Low,1,Abnormal Low,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,high,1,NORMAL,Medium,1,Abnormal Low,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,Low,1,Normal,flat,1
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,0,NORMAL,High,1,Abnormal High,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal High,flat,1
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,1,NORMAL,Medium,1,Abnormal Low,flat,1
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Very Low,1,Abnormal High,flat,1
+55-60,Male,non-anginal,Moderate or Severe Hypertension,Borderline high,1,st-t abnormality,Very Low,0,Normal,flat,1
+55-60,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal High,flat,1
+28-42,Male,asymptomatic,Mild Hypertension,Desirable,0,st-t abnormality,Medium,0,Abnormal High,flat,1
+42-48,Male,asymptomatic,normal,Desirable,0,NORMAL,Low,1,Abnormal Low,flat,1
+42-48,Male,atypical angina,Moderate or Severe Hypertension,high,0,NORMAL,High,1,Abnormal High,flat,1
+42-48,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Very Low,1,Abnormal High,flat,1
+42-48,Male,typical angina,Mild Hypertension,high,1,NORMAL,High,0,Abnormal High,flat,1
+42-48,Female,non-anginal,Mild Hypertension,high,1,NORMAL,High,0,Normal,flat,1
+42-48,Female,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Low,1,Abnormal High,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Low,1,Abnormal Low,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Medium,1,Abnormal Low,flat,1
+48-55,Male,non-anginal,Mild Hypertension,Desirable,0,NORMAL,High,0,Abnormal High,flat,1
+48-55,Male,asymptomatic,normal,high,0,st-t abnormality,Very Low,1,Abnormal Low,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Low,1,Abnormal Low,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal High,flat,1
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,high,0,st-t abnormality,Very Low,1,Abnormal High,flat,1
+48-55,Male,non-anginal,Moderate or Severe Hypertension,high,0,NORMAL,Medium,0,Normal,flat,1
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,high,0,st-t abnormality,Low,1,Abnormal High,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Low,0,Abnormal High,flat,1
+48-55,Male,typical angina,Mild Hypertension,high,0,,Medium,0,Normal,flat,1
+48-55,Male,atypical angina,Moderate or Severe Hypertension,high,1,NORMAL,High,1,Abnormal High,flat,1
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Very Low,1,Abnormal High,flat,1
+55-60,Female,atypical angina,normal,high,0,NORMAL,High,0,Abnormal Low,flat,1
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,st-t abnormality,Medium,1,Abnormal High,flat,1
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,high,0,st-t abnormality,Medium,1,Abnormal High,flat,1
+55-60,Male,atypical angina,Mild Hypertension,Desirable,0,st-t abnormality,Very Low,1,Abnormal High,flat,1
+55-60,Male,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,Medium,0,Normal,flat,1
+55-60,Male,asymptomatic,Mild Hypertension,high,1,lv hypertrophy,Low,1,Normal,flat,1
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,1,NORMAL,Low,1,Abnormal High,flat,1
+60-70,Male,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,Very Low,1,Abnormal Low,flat,1
+28-42,Male,asymptomatic,normal,high,0,NORMAL,Low,1,Abnormal High,flat,1
+42-48,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal High,flat,1
+42-48,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,0,Normal,flat,1
+42-48,Female,asymptomatic,normal,Borderline high,0,NORMAL,Very Low,1,Abnormal High,flat,1
+42-48,Male,asymptomatic,Moderate or Severe Hypertension,high,0,st-t abnormality,High,1,Abnormal High,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Very Low,1,Normal,flat,1
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,NORMAL,Medium,0,Abnormal High,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,st-t abnormality,Medium,1,Abnormal High,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,high,0,st-t abnormality,Medium,1,Abnormal High,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal High,flat,1
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Very Low,1,Abnormal High,flat,1
+48-55,Female,non-anginal,Mild Hypertension,high,0,st-t abnormality,Very Low,1,Normal,flat,1
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,high,1,NORMAL,High,1,Abnormal High,flat,1
+55-60,Female,atypical angina,Moderate or Severe Hypertension,high,0,NORMAL,Low,1,Abnormal Low,flat,1
+60-70,Male,asymptomatic,Mild Hypertension,high,0,st-t abnormality,Low,1,Abnormal Low,flat,1
+28-42,Male,typical angina,normal,high,0,NORMAL,Medium,0,Abnormal Low,upsloping,1
+28-42,Male,asymptomatic,normal,high,0,,High,0,Abnormal Low,upsloping,1
+28-42,Male,asymptomatic,normal,high,0,NORMAL,Medium,1,Abnormal Low,upsloping,3
+28-42,Male,asymptomatic,normal,high,0,NORMAL,Medium,1,Abnormal Low,flat,1
+28-42,Female,asymptomatic,normal,high,0,NORMAL,High,0,Abnormal High,upsloping,2
+28-42,Female,asymptomatic,normal,high,0,NORMAL,High,0,Normal,flat,1
+28-42,Male,non-anginal,normal,high,0,NORMAL,High,0,Normal,upsloping,0
+28-42,Male,non-anginal,normal,high,0,NORMAL,Medium,1,Normal,flat,1
+28-42,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,High,0,Normal,flat,2
+28-42,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Low,1,Abnormal Low,flat,1
+28-42,Male,asymptomatic,normal,high,0,st-t abnormality,High,0,Normal,upsloping,2
+28-42,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,High,0,Abnormal High,upsloping,2
+28-42,Male,asymptomatic,normal,high,0,NORMAL,Medium,1,Normal,downsloping,1
+28-42,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Very Low,1,Normal,flat,2
+42-48,Male,asymptomatic,normal,high,0,NORMAL,Medium,0,Abnormal High,downsloping,3
+42-48,Male,asymptomatic,normal,high,0,NORMAL,High,1,Abnormal High,flat,4
+42-48,Male,asymptomatic,Mild Hypertension,high,0,st-t abnormality,Medium,1,Abnormal Low,upsloping,2
+42-48,Male,non-anginal,normal,high,0,NORMAL,Medium,0,Normal,upsloping,0
+42-48,Male,asymptomatic,normal,high,0,st-t abnormality,Medium,0,Normal,flat,1
+42-48,Male,asymptomatic,normal,high,0,NORMAL,Low,1,Abnormal High,flat,1
+42-48,Male,non-anginal,normal,high,0,NORMAL,Low,1,Normal,flat,1
+42-48,Male,non-anginal,Moderate or Severe Hypertension,high,0,NORMAL,Low,1,Abnormal Low,flat,3
+42-48,Male,asymptomatic,normal,high,0,st-t abnormality,High,0,Abnormal High,upsloping,2
+42-48,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Medium,1,Normal,flat,1
+42-48,Male,asymptomatic,normal,high,0,NORMAL,Medium,0,Normal,flat,2
+48-55,Female,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Low,0,Normal,flat,1
+48-55,Male,asymptomatic,normal,high,0,NORMAL,Low,1,Abnormal Low,flat,3
+48-55,Male,asymptomatic,normal,high,0,st-t abnormality,High,1,Normal,upsloping,3
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Medium,1,Abnormal Low,flat,1
+48-55,Female,asymptomatic,normal,high,0,NORMAL,Medium,1,Abnormal High,upsloping,2
+48-55,Male,asymptomatic,normal,high,0,NORMAL,Very Low,0,Normal,flat,4
+48-55,Male,asymptomatic,normal,high,0,NORMAL,Low,0,Normal,flat,3
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,High,0,Normal,upsloping,2
+48-55,Male,asymptomatic,Mild Hypertension,high,0,st-t abnormality,High,0,Normal,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Very Low,0,Normal,flat,2
+48-55,Male,asymptomatic,normal,high,0,NORMAL,Medium,0,Abnormal High,flat,2
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Low,0,Normal,flat,2
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal High,flat,2
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Medium,1,Abnormal Low,upsloping,2
+48-55,Male,asymptomatic,normal,high,0,NORMAL,Very Low,1,Abnormal Low,flat,2
+48-55,Male,atypical angina,normal,high,0,NORMAL,Very Low,0,Normal,flat,3
+48-55,Male,atypical angina,Mild Hypertension,high,0,st-t abnormality,Low,0,Abnormal Low,downsloping,0
+48-55,Male,non-anginal,normal,high,0,NORMAL,Low,0,Normal,flat,1
+48-55,Male,non-anginal,Moderate or Severe Hypertension,high,0,lv hypertrophy,Medium,1,Normal,flat,1
+48-55,Male,asymptomatic,normal,high,0,NORMAL,Low,0,Normal,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Low,0,Abnormal High,upsloping,4
+48-55,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,Medium,1,Abnormal Low,flat,2
+48-55,Male,asymptomatic,normal,high,0,NORMAL,High,1,Abnormal High,downsloping,0
+48-55,Male,asymptomatic,normal,high,0,NORMAL,High,0,Normal,flat,2
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Low,1,Abnormal High,flat,3
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,High,0,Abnormal High,flat,1
+48-55,Male,atypical angina,Mild Hypertension,high,0,st-t abnormality,High,0,Abnormal Low,upsloping,0
+48-55,Male,asymptomatic,normal,high,0,NORMAL,High,0,Abnormal Low,flat,1
+48-55,Male,asymptomatic,normal,high,0,st-t abnormality,Very Low,0,Abnormal Low,upsloping,4
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Very Low,0,Normal,flat,2
+55-60,Male,non-anginal,normal,high,0,NORMAL,Very Low,0,Normal,flat,0
+55-60,Male,non-anginal,Mild Hypertension,high,0,NORMAL,Very Low,0,Normal,flat,2
+55-60,Male,non-anginal,Moderate or Severe Hypertension,high,0,st-t abnormality,Very Low,0,Normal,flat,2
+55-60,Male,asymptomatic,normal,high,0,st-t abnormality,Very Low,0,Normal,upsloping,1
+55-60,Male,asymptomatic,normal,high,0,st-t abnormality,Very Low,1,Normal,downsloping,2
+55-60,Male,asymptomatic,normal,high,0,st-t abnormality,High,0,Normal,flat,2
+55-60,Male,asymptomatic,Mild Hypertension,high,1,NORMAL,Low,1,Abnormal Low,flat,3
+55-60,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal High,upsloping,1
+55-60,Male,non-anginal,normal,high,0,NORMAL,High,0,Abnormal Low,flat,1
+55-60,Male,asymptomatic,normal,high,0,st-t abnormality,Medium,1,Abnormal High,upsloping,3
+55-60,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Low,1,Abnormal High,flat,2
+55-60,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Very Low,1,Normal,flat,3
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Very Low,1,Abnormal High,flat,2
+55-60,Male,asymptomatic,normal,high,0,NORMAL,High,0,Abnormal Low,downsloping,1
+55-60,Male,asymptomatic,normal,high,0,NORMAL,Medium,0,Abnormal Low,upsloping,1
+55-60,Male,asymptomatic,Mild Hypertension,high,0,st-t abnormality,Very Low,1,Abnormal Low,flat,4
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,high,0,st-t abnormality,Low,1,Normal,flat,1
+55-60,Male,non-anginal,Mild Hypertension,high,0,NORMAL,High,0,Abnormal High,flat,1
+55-60,Male,asymptomatic,normal,high,0,NORMAL,Very Low,0,Normal,flat,3
+55-60,Male,asymptomatic,normal,high,0,NORMAL,Low,0,Normal,flat,2
+55-60,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Low,1,Abnormal Low,upsloping,1
+55-60,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Low,1,Abnormal Low,flat,1
+55-60,Male,non-anginal,normal,high,0,NORMAL,High,0,Abnormal High,upsloping,1
+55-60,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Low,0,Abnormal Low,upsloping,3
+55-60,Male,asymptomatic,Mild Hypertension,high,0,st-t abnormality,Medium,1,Abnormal High,downsloping,1
+55-60,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Very Low,1,Abnormal Low,upsloping,3
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,high,0,st-t abnormality,Very Low,1,Abnormal Low,flat,3
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,High,0,Abnormal Low,flat,1
+60-70,Male,non-anginal,Moderate or Severe Hypertension,high,0,st-t abnormality,Very Low,0,Normal,flat,3
+60-70,Male,asymptomatic,normal,high,0,NORMAL,Low,1,Abnormal High,upsloping,1
+60-70,Male,asymptomatic,normal,high,0,NORMAL,Low,0,Abnormal High,flat,1
+60-70,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Low,1,Normal,downsloping,3
+60-70,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,Low,0,Normal,flat,3
+60-70,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Very Low,0,Abnormal High,flat,3
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Low,1,Normal,flat,1
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Low,1,Abnormal High,flat,2
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,1,st-t abnormality,High,0,Abnormal Low,flat,2
+60-70,Female,typical angina,Mild Hypertension,high,0,NORMAL,High,0,Normal,flat,2
+60-70,Female,asymptomatic,normal,high,0,st-t abnormality,Medium,1,Abnormal High,downsloping,1
+60-70,Male,typical angina,normal,high,0,lv hypertrophy,Medium,0,Normal,flat,1
+60-70,Male,non-anginal,Moderate or Severe Hypertension,high,0,NORMAL,Very Low,1,Normal,flat,3
+60-70,Male,asymptomatic,normal,high,0,NORMAL,Medium,1,Abnormal High,downsloping,2
+60-70,Male,asymptomatic,normal,high,0,NORMAL,Very Low,1,Normal,flat,1
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,0,st-t abnormality,Very Low,0,Abnormal High,flat,3
+60-70,Male,asymptomatic,normal,high,0,NORMAL,Low,0,Normal,flat,1
+60-70,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,High,0,Abnormal High,upsloping,2
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Very Low,1,Abnormal High,flat,3
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,0,st-t abnormality,High,0,Abnormal High,upsloping,3
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Very Low,1,Normal,upsloping,1
+60-70,Female,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Medium,1,Abnormal Low,flat,3
+60-70,Female,asymptomatic,normal,high,0,NORMAL,High,0,Abnormal High,downsloping,1
+60-70,Male,asymptomatic,normal,high,0,NORMAL,Low,1,Abnormal High,downsloping,1
+60-70,Male,asymptomatic,normal,high,0,NORMAL,Very Low,1,Normal,flat,1
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,0,st-t abnormality,Very Low,0,Abnormal Low,flat,3
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,High,0,Abnormal Low,upsloping,0
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,1,st-t abnormality,Medium,0,Abnormal Low,flat,3
+60-70,Female,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Very Low,0,Normal,flat,1
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Low,1,Abnormal High,flat,3
+60-70,Male,typical angina,Moderate or Severe Hypertension,high,0,lv hypertrophy,Medium,0,Normal,flat,2
+60-70,Male,asymptomatic,Mild Hypertension,high,0,st-t abnormality,Low,1,Normal,upsloping,3
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Medium,0,Abnormal High,upsloping,1
+60-70,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,0,Normal,flat,1
+60-70,Male,asymptomatic,normal,high,0,st-t abnormality,Medium,1,Abnormal Low,flat,3
+60-70,Male,asymptomatic,normal,high,0,st-t abnormality,Very Low,1,Normal,flat,1
+60-70,Male,asymptomatic,Mild Hypertension,high,1,NORMAL,High,1,Abnormal High,flat,3
+60-70,Male,non-anginal,Moderate or Severe Hypertension,high,0,lv hypertrophy,Low,0,Abnormal High,flat,0
+60-70,Female,non-anginal,Moderate or Severe Hypertension,high,0,st-t abnormality,Medium,0,Normal,upsloping,1
+60-70,Male,atypical angina,Moderate or Severe Hypertension,high,0,st-t abnormality,Medium,0,Abnormal High,upsloping,1
+60-70,Male,asymptomatic,Mild Hypertension,high,0,st-t abnormality,Low,1,Abnormal High,flat,2
+42-48,Male,asymptomatic,Mild Hypertension,high,0,st-t abnormality,Medium,0,Normal,flat,0
+55-60,Male,asymptomatic,Mild Hypertension,high,0,st-t abnormality,Medium,1,Abnormal High,downsloping,2
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,high,0,st-t abnormality,High,1,Abnormal High,upsloping,1
+60-70,Male,non-anginal,normal,high,1,lv hypertrophy,Very Low,1,Abnormal High,flat,0
+60-70,Male,non-anginal,normal,high,0,st-t abnormality,Low,0,Normal,upsloping,0
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,1,st-t abnormality,Low,1,Normal,flat,3
+55-60,Male,non-anginal,Moderate or Severe Hypertension,high,0,st-t abnormality,Medium,1,Abnormal High,flat,0
+55-60,Male,non-anginal,normal,high,0,NORMAL,High,1,Abnormal High,upsloping,3
+55-60,Male,atypical angina,Moderate or Severe Hypertension,high,1,st-t abnormality,High,0,Abnormal Low,flat,1
+55-60,Male,atypical angina,Mild Hypertension,high,0,st-t abnormality,Medium,0,Normal,flat,0
+55-60,Male,asymptomatic,Mild Hypertension,high,0,st-t abnormality,Low,1,Abnormal Low,flat,1
+60-70,Male,asymptomatic,normal,high,0,NORMAL,Low,1,Abnormal Low,flat,1
+60-70,Male,non-anginal,normal,high,0,lv hypertrophy,Medium,1,Abnormal Low,flat,1
+55-60,Male,asymptomatic,Mild Hypertension,high,1,st-t abnormality,High,1,Abnormal Low,flat,1
+60-70,Male,asymptomatic,normal,high,0,st-t abnormality,Very Low,0,Normal,flat,0
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Very Low,1,Abnormal High,downsloping,4
+42-48,Male,asymptomatic,normal,high,0,NORMAL,Medium,1,Abnormal High,flat,1
+60-70,Male,asymptomatic,Mild Hypertension,high,0,st-t abnormality,Low,0,Abnormal High,downsloping,0
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,high,0,st-t abnormality,Low,1,Normal,downsloping,0
+55-60,Male,asymptomatic,normal,high,0,NORMAL,Medium,0,Abnormal Low,upsloping,2
+60-70,Male,asymptomatic,normal,high,1,st-t abnormality,Low,0,Abnormal High,flat,1
+60-70,Male,non-anginal,Mild Hypertension,high,0,st-t abnormality,Low,1,Normal,flat,3
+60-70,Male,non-anginal,normal,high,0,NORMAL,Medium,1,Abnormal Low,flat,0
+48-55,Male,non-anginal,Mild Hypertension,high,0,st-t abnormality,High,0,Abnormal High,upsloping,2
+60-70,Male,asymptomatic,Mild Hypertension,high,1,st-t abnormality,Medium,0,Abnormal Low,flat,2
+48-55,Male,asymptomatic,normal,high,1,st-t abnormality,Medium,1,Abnormal Low,flat,2
+55-60,Male,asymptomatic,Mild Hypertension,Desirable,1,st-t abnormality,Medium,1,Abnormal Low,flat,1
+55-60,Male,asymptomatic,normal,Desirable,0,NORMAL,Low,1,Abnormal High,flat,1
+48-55,Male,non-anginal,normal,Borderline high,0,st-t abnormality,Medium,1,Abnormal Low,flat,3
+48-55,Male,asymptomatic,normal,Desirable,0,st-t abnormality,Medium,1,Abnormal Low,flat,3
+60-70,Male,asymptomatic,Mild Hypertension,Desirable,0,st-t abnormality,Low,1,Abnormal High,upsloping,3
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,1,NORMAL,Low,1,Abnormal Low,flat,3
+48-55,Male,non-anginal,normal,Desirable,0,NORMAL,High,0,Abnormal High,flat,3
+48-55,Male,non-anginal,Mild Hypertension,Desirable,0,NORMAL,Low,1,Abnormal High,downsloping,2
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,0,st-t abnormality,Medium,1,Abnormal Low,flat,3
+55-60,Male,asymptomatic,normal,high,0,st-t abnormality,Medium,1,Abnormal Low,flat,2
+55-60,Male,asymptomatic,normal,Desirable,0,NORMAL,Medium,1,Abnormal High,upsloping,0
+55-60,Male,asymptomatic,normal,Borderline high,1,NORMAL,Medium,0,Abnormal Low,flat,1
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,0,st-t abnormality,Medium,1,Abnormal High,flat,0
+60-70,Male,non-anginal,normal,Desirable,0,NORMAL,Very Low,1,Normal,flat,3
+28-42,Male,asymptomatic,Mild Hypertension,Desirable,1,NORMAL,High,0,Normal,flat,1
+60-70,Male,asymptomatic,normal,Desirable,1,st-t abnormality,Very Low,0,Abnormal High,flat,3
+28-42,Male,asymptomatic,normal,Desirable,0,st-t abnormality,Low,0,Normal,flat,0
+55-60,Male,asymptomatic,normal,high,1,st-t abnormality,Medium,0,Abnormal Low,flat,4
+60-70,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Very Low,1,Normal,downsloping,2
+55-60,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Low,1,Abnormal High,downsloping,1
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Low,0,Normal,downsloping,0
+55-60,Male,non-anginal,normal,Borderline high,0,NORMAL,Medium,1,Abnormal High,downsloping,2
+28-42,Male,non-anginal,Mild Hypertension,Borderline high,0,NORMAL,High,0,Normal,downsloping,0
+48-55,Male,non-anginal,normal,Borderline high,0,st-t abnormality,Medium,1,Abnormal High,flat,1
+60-70,Female,atypical angina,normal,Borderline high,0,NORMAL,Medium,1,Abnormal Low,flat,0
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,0,st-t abnormality,Very Low,1,Abnormal High,upsloping,2
+55-60,Male,atypical angina,Mild Hypertension,Borderline high,1,NORMAL,High,0,Abnormal High,flat,0
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Low,0,Normal,flat,1
+60-70,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Medium,1,Abnormal High,flat,2
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,st-t abnormality,Medium,1,Abnormal High,flat,2
+55-60,Male,non-anginal,normal,Borderline high,1,st-t abnormality,Medium,1,Abnormal Low,flat,3
+60-70,Male,atypical angina,normal,Borderline high,0,NORMAL,Medium,1,Abnormal Low,flat,0
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,1,lv hypertrophy,Low,1,Normal,flat,1
+48-55,Male,asymptomatic,normal,Borderline high,1,lv hypertrophy,Medium,1,Abnormal Low,flat,0
+60-70,Male,asymptomatic,normal,Borderline high,0,NORMAL,Low,1,Abnormal High,downsloping,2
+55-60,Male,asymptomatic,Mild Hypertension,Borderline high,0,st-t abnormality,High,1,Abnormal High,flat,1
+55-60,Male,non-anginal,Moderate or Severe Hypertension,Borderline high,0,lv hypertrophy,Medium,1,Abnormal High,flat,4
+55-60,Male,atypical angina,Mild Hypertension,Borderline high,1,NORMAL,Low,1,Abnormal High,flat,2
+60-70,Male,non-anginal,Mild Hypertension,Borderline high,0,st-t abnormality,Low,0,Abnormal High,downsloping,2
+60-70,Male,typical angina,Moderate or Severe Hypertension,high,1,NORMAL,Medium,0,Abnormal High,upsloping,3
+55-60,Male,asymptomatic,normal,Borderline high,0,lv hypertrophy,Low,1,Abnormal High,downsloping,1
+60-70,Male,asymptomatic,normal,Borderline high,0,NORMAL,Medium,1,Abnormal Low,flat,1
+60-70,Male,atypical angina,normal,Borderline high,1,st-t abnormality,Medium,1,Abnormal Low,flat,1
+48-55,Male,atypical angina,normal,Borderline high,1,st-t abnormality,High,0,Abnormal Low,flat,0
+55-60,Male,asymptomatic,Mild Hypertension,Borderline high,0,st-t abnormality,High,1,Abnormal High,flat,2
+60-70,Male,typical angina,normal,high,0,NORMAL,Medium,0,Abnormal Low,flat,0
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Medium,1,Abnormal High,flat,3
+60-70,Male,non-anginal,normal,Borderline high,0,NORMAL,Low,1,Abnormal Low,flat,3
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,1,st-t abnormality,Low,0,Normal,flat,1
+48-55,Male,typical angina,Mild Hypertension,Desirable,0,st-t abnormality,High,0,Abnormal High,flat,2
+48-55,Male,non-anginal,normal,high,0,NORMAL,Medium,0,Abnormal Low,flat,3
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,NORMAL,Low,1,Abnormal High,flat,2
+60-70,Female,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Medium,1,Abnormal Low,flat,1
+55-60,Male,asymptomatic,Mild Hypertension,high,1,NORMAL,Very Low,0,Abnormal Low,downsloping,0
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,High,1,Abnormal High,downsloping,2
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,1,st-t abnormality,Medium,1,Normal,flat,2
+60-70,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal Low,flat,2
+60-70,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal High,downsloping,4
+60-70,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal High,flat,2
+60-70,Male,asymptomatic,Mild Hypertension,Borderline high,0,st-t abnormality,Medium,1,Abnormal High,flat,3
+48-55,Male,asymptomatic,normal,Borderline high,1,st-t abnormality,Medium,0,Abnormal Low,flat,0
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,1,NORMAL,Low,1,Abnormal High,downsloping,1
+48-55,Male,non-anginal,normal,high,1,st-t abnormality,Medium,0,Abnormal Low,flat,1
+60-70,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Low,1,Abnormal High,flat,3
+28-42,Male,non-anginal,normal,Borderline high,0,NORMAL,Very Low,1,Normal,flat,0
+60-70,Male,asymptomatic,normal,Desirable,1,NORMAL,High,0,Abnormal High,downsloping,3
+55-60,Male,asymptomatic,normal,Desirable,0,NORMAL,Low,0,Normal,downsloping,1
+55-60,Male,asymptomatic,normal,Desirable,0,NORMAL,Medium,0,Abnormal Low,flat,0
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,1,st-t abnormality,Very Low,1,Abnormal High,flat,3
+28-42,Male,non-anginal,normal,Desirable,0,st-t abnormality,Medium,0,Abnormal Low,flat,0
+60-70,Male,typical angina,normal,high,0,st-t abnormality,High,1,Abnormal Low,flat,1
+42-48,Male,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,Low,0,Abnormal Low,upsloping,1
+60-70,Male,non-anginal,Mild Hypertension,Desirable,1,st-t abnormality,High,0,Abnormal High,flat,0
+60-70,Male,non-anginal,Moderate or Severe Hypertension,Desirable,1,NORMAL,Medium,0,Normal,flat,1
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,NORMAL,Low,1,Abnormal High,flat,3
+42-48,Male,non-anginal,normal,Desirable,1,st-t abnormality,Low,1,Abnormal Low,downsloping,1
+60-70,Male,asymptomatic,normal,high,0,st-t abnormality,Medium,1,Abnormal Low,upsloping,1
+60-70,Male,asymptomatic,Mild Hypertension,Borderline high,0,st-t abnormality,Medium,0,Abnormal Low,flat,0
+60-70,Male,asymptomatic,normal,high,0,st-t abnormality,Medium,1,Abnormal High,downsloping,3
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,high,0,lv hypertrophy,Low,1,Abnormal Low,upsloping,1
+55-60,Male,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,Low,1,Abnormal Low,flat,1
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,0,st-t abnormality,High,0,Normal,flat,0
+42-48,Male,non-anginal,normal,Borderline high,0,NORMAL,Medium,0,Abnormal Low,flat,0
+60-70,Male,asymptomatic,normal,high,0,lv hypertrophy,Medium,0,Abnormal Low,flat,3
+60-70,Male,atypical angina,normal,high,0,NORMAL,Medium,0,Abnormal Low,flat,0
+48-55,Male,non-anginal,normal,Desirable,0,NORMAL,Medium,0,Abnormal Low,flat,3
+60-70,Male,asymptomatic,normal,Borderline high,0,NORMAL,Medium,0,Abnormal Low,flat,1
+48-55,Male,asymptomatic,normal,Borderline high,0,NORMAL,Medium,0,Abnormal Low,flat,1
+60-70,Male,asymptomatic,normal,high,1,st-t abnormality,Medium,0,Abnormal Low,flat,3
+48-55,Male,asymptomatic,normal,Desirable,1,st-t abnormality,Low,0,Normal,downsloping,2
+60-70,Male,asymptomatic,normal,high,0,st-t abnormality,Medium,1,Abnormal High,flat,2
+55-60,Male,asymptomatic,Mild Hypertension,Borderline high,0,NORMAL,Medium,1,Abnormal High,downsloping,3
+55-60,Male,asymptomatic,normal,Desirable,0,lv hypertrophy,Medium,1,Abnormal Low,flat,1
+60-70,Male,non-anginal,normal,Desirable,1,st-t abnormality,Medium,1,Abnormal Low,flat,2
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,1,st-t abnormality,Medium,1,Abnormal High,downsloping,3
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,1,NORMAL,Low,1,Abnormal High,flat,1
+55-60,Male,asymptomatic,normal,Desirable,0,lv hypertrophy,Very Low,0,Normal,flat,0
+60-70,Male,non-anginal,normal,Borderline high,0,st-t abnormality,Medium,0,Abnormal Low,flat,1
+60-70,Male,non-anginal,normal,Desirable,0,lv hypertrophy,Low,0,Abnormal High,downsloping,4
+48-55,Female,asymptomatic,Mild Hypertension,high,0,NORMAL,Low,1,Abnormal High,flat,1
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,0,st-t abnormality,Medium,1,Abnormal High,downsloping,2
+60-70,Female,atypical angina,Mild Hypertension,high,1,NORMAL,Low,1,Normal,downsloping,0
+42-48,Male,asymptomatic,normal,high,0,st-t abnormality,Medium,0,Abnormal Low,flat,0
+42-48,Male,non-anginal,Mild Hypertension,Borderline high,1,st-t abnormality,High,0,Normal,downsloping,1
+60-70,Male,typical angina,Moderate or Severe Hypertension,Desirable,1,st-t abnormality,Very Low,0,Abnormal High,downsloping,3
+60-70,Male,asymptomatic,normal,high,0,NORMAL,Medium,0,Abnormal High,upsloping,1
+60-70,Male,typical angina,normal,Desirable,1,st-t abnormality,Medium,0,Abnormal Low,flat,0
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Very Low,0,Abnormal High,flat,3
+60-70,Male,non-anginal,normal,Borderline high,0,lv hypertrophy,Very Low,0,Normal,downsloping,0
+60-70,Male,non-anginal,normal,Borderline high,0,NORMAL,Medium,0,Abnormal Low,flat,3
+60-70,Male,typical angina,normal,Borderline high,1,NORMAL,Medium,0,Abnormal Low,flat,3
+48-55,Male,non-anginal,Moderate or Severe Hypertension,Desirable,1,st-t abnormality,High,0,Abnormal Low,flat,0
+55-60,Male,non-anginal,Moderate or Severe Hypertension,Borderline high,0,st-t abnormality,Low,1,Normal,downsloping,2
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,1,NORMAL,Low,1,Abnormal High,downsloping,0
+55-60,Male,non-anginal,normal,Borderline high,1,st-t abnormality,Medium,1,Abnormal Low,flat,4
+55-60,Male,non-anginal,normal,Borderline high,0,st-t abnormality,Medium,1,Abnormal Low,flat,2
+60-70,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Low,1,Abnormal High,downsloping,4
+48-55,Male,non-anginal,normal,Borderline high,0,st-t abnormality,Medium,1,Abnormal Low,flat,0
+48-55,Male,atypical angina,normal,Desirable,0,st-t abnormality,Medium,1,Abnormal Low,flat,0
+55-60,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,High,1,Abnormal High,flat,0
+48-55,Male,asymptomatic,normal,Borderline high,1,st-t abnormality,Medium,1,Abnormal Low,flat,1
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,high,1,st-t abnormality,High,1,Abnormal High,flat,3
+60-70,Male,asymptomatic,normal,high,0,st-t abnormality,Medium,1,Abnormal Low,flat,3
+28-42,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,0,NORMAL,Medium,1,Abnormal High,flat,0
+60-70,Male,asymptomatic,Mild Hypertension,Borderline high,0,st-t abnormality,Low,1,Normal,flat,3
+28-42,Male,asymptomatic,normal,high,0,NORMAL,Low,1,Abnormal High,downsloping,1
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,Borderline high,0,NORMAL,Low,1,Abnormal High,flat,1
+55-60,Male,asymptomatic,Mild Hypertension,Borderline high,0,st-t abnormality,Low,1,Abnormal High,downsloping,2
+60-70,Male,asymptomatic,normal,Desirable,1,NORMAL,Medium,1,Abnormal Low,flat,2
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,0,st-t abnormality,Medium,1,Abnormal Low,flat,2
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,1,lv hypertrophy,Medium,0,Abnormal High,flat,2
+60-70,Male,asymptomatic,normal,Borderline high,1,st-t abnormality,Medium,0,Abnormal Low,flat,2
+55-60,Male,asymptomatic,normal,high,1,NORMAL,Medium,0,Abnormal Low,flat,1
+60-70,Male,asymptomatic,normal,Desirable,0,st-t abnormality,Low,1,Abnormal High,flat,4
+60-70,Male,asymptomatic,normal,high,0,NORMAL,Medium,1,Abnormal Low,flat,3
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,0,lv hypertrophy,Low,1,Abnormal High,downsloping,3
+60-70,Male,asymptomatic,normal,high,1,st-t abnormality,Medium,1,Abnormal Low,flat,3
+48-55,Male,asymptomatic,normal,Desirable,1,lv hypertrophy,Medium,1,Abnormal Low,flat,1
+42-48,Male,asymptomatic,Mild Hypertension,Desirable,0,NORMAL,High,1,Abnormal High,upsloping,3
+60-70,Male,asymptomatic,Mild Hypertension,Borderline high,1,lv hypertrophy,Very Low,1,Normal,upsloping,2
+60-70,Male,non-anginal,normal,high,0,lv hypertrophy,Medium,1,Abnormal Low,flat,0
+60-70,Male,asymptomatic,normal,high,1,st-t abnormality,Medium,1,Abnormal Low,flat,2
+55-60,Male,atypical angina,Moderate or Severe Hypertension,high,1,st-t abnormality,Low,0,Abnormal Low,flat,1
+48-55,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,1,Abnormal High,flat,1
+28-42,Male,non-anginal,normal,Borderline high,0,lv hypertrophy,High,0,Abnormal Low,flat,0
+60-70,Male,asymptomatic,Mild Hypertension,Borderline high,0,st-t abnormality,Medium,1,Abnormal High,flat,3
+60-70,Male,non-anginal,Mild Hypertension,Borderline high,1,NORMAL,Very Low,0,Normal,flat,1
+60-70,Male,atypical angina,normal,Desirable,0,st-t abnormality,Medium,1,Abnormal Low,flat,0
+55-60,Male,asymptomatic,normal,Borderline high,0,st-t abnormality,Low,0,Normal,flat,0
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,1,lv hypertrophy,High,1,Abnormal High,downsloping,4
+60-70,Male,asymptomatic,Mild Hypertension,high,1,lv hypertrophy,Medium,0,Normal,downsloping,2
+55-60,Male,asymptomatic,Moderate or Severe Hypertension,high,1,lv hypertrophy,Low,1,Abnormal Low,upsloping,3
+55-60,Male,asymptomatic,Mild Hypertension,Desirable,1,lv hypertrophy,Medium,1,Abnormal Low,flat,1
+55-60,Male,asymptomatic,Mild Hypertension,high,0,lv hypertrophy,Very Low,0,Normal,flat,1
+48-55,Male,non-anginal,normal,Desirable,0,st-t abnormality,Medium,1,Abnormal Low,flat,0
+48-55,Male,asymptomatic,normal,Borderline high,0,lv hypertrophy,Medium,1,Abnormal High,downsloping,1
+55-60,Male,asymptomatic,Mild Hypertension,Borderline high,1,NORMAL,Very Low,0,Abnormal High,flat,1
+55-60,Male,asymptomatic,Mild Hypertension,Borderline high,0,st-t abnormality,Very Low,1,Abnormal Low,flat,0
+60-70,Male,non-anginal,normal,high,0,NORMAL,Medium,1,Abnormal Low,downsloping,1
+60-70,Male,non-anginal,normal,high,0,NORMAL,Very Low,1,Normal,downsloping,3
+55-60,Male,non-anginal,Moderate or Severe Hypertension,Borderline high,0,st-t abnormality,Low,1,Normal,downsloping,2
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,0,NORMAL,Low,1,Abnormal High,downsloping,2
+60-70,Male,non-anginal,Mild Hypertension,high,1,NORMAL,High,1,Normal,downsloping,0
+48-55,Female,asymptomatic,normal,high,1,lv hypertrophy,Very Low,0,Abnormal Low,upsloping,0
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,high,1,st-t abnormality,Low,1,Abnormal High,flat,4
+48-55,Male,asymptomatic,Moderate or Severe Hypertension,high,1,st-t abnormality,Medium,1,Abnormal High,flat,3
+60-70,Male,asymptomatic,Moderate or Severe Hypertension,Desirable,0,st-t abnormality,Medium,1,Normal,flat,1
+42-48,Male,asymptomatic,Mild Hypertension,high,0,NORMAL,Medium,0,Normal,flat,2
+48-55,Female,asymptomatic,Mild Hypertension,high,1,st-t abnormality,High,0,Normal,flat,1
+60-70,Male,typical angina,normal,Desirable,0,st-t abnormality,Medium,1,Abnormal Low,flat,0
+48-55,Male,asymptomatic,Mild Hypertension,Borderline high,1,st-t abnormality,Very Low,0,Normal,flat,2
+55-60,Male,asymptomatic,normal,high,1,lv hypertrophy,Medium,1,Abnormal Low,flat,0
+60-70,Male,atypical angina,normal,high,0,lv hypertrophy,Very Low,1,Normal,flat,1
