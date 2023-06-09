@@ -7,7 +7,7 @@ import graphviz
 from pandas import DataFrame
 from sklearn import tree
 from sklearn import tree
-from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 import pickle
@@ -38,7 +38,7 @@ def show():
     st.markdown(
         """
     <div class="center">
-        <img src='' alt='Photo' width='500'>
+        <img src='https://www.heartresearch.com.au/wp-content/uploads/2016/08/shutterstock_208215142.jpg' alt='Photo' width='500'>
     </div>
     """,
         unsafe_allow_html=True
